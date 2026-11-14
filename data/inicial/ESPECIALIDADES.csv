@@ -1,0 +1,21 @@
+﻿id_especialidad,nombre_especialidad,descripcion,created_at
+1,Medicina General,Atención primaria y control general,2025-11-14 06:00:00
+2,Pediatría,Salud del niño y adolescente,2025-11-14 06:00:00
+3,Ginecología,Salud de la mujer,2025-11-14 06:00:00
+4,Cardiología,Enfermedades del corazón,2025-11-14 06:00:00
+5,Dermatología,Enfermedades de la piel,2025-11-14 06:00:00
+6,Traumatología,Sistema músculo-esquelético,2025-11-14 06:00:00
+7,Oftalmología,Salud visual,2025-11-14 06:00:00
+8,Otorrinolaringología,"Oído, nariz y garganta",2025-11-14 06:00:00
+9,Neurología,Sistema nervioso,2025-11-14 06:00:00
+10,Gastroenterología,Aparato digestivo,2025-11-14 06:00:00
+11,Urología,Vías urinarias,2025-11-14 06:00:00
+12,Endocrinología,Diabetes y tiroides,2025-11-14 06:00:00
+13,Neumología,Enfermedades respiratorias,2025-11-14 06:00:00
+14,Psiquiatría,Salud mental,2025-11-14 06:00:00
+15,Nutrición,Alimentación y dietética,2025-11-14 06:00:00
+16,Odontología General,Salud bucal,2025-11-14 06:00:00
+17,Ortodoncia,Corrección dental,2025-11-14 06:00:00
+18,Medicina Interna,Adultos con patologías complejas,2025-11-14 06:00:00
+19,Oncología,Diagnóstico y tratamiento del cáncer,2025-11-14 06:00:00
+20,Reumatología,Enfermedades articulares,2025-11-14 06:00:00

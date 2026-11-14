@@ -1,0 +1,346 @@
+﻿id_cita,id_paciente,id_personal,fecha,hora,estado,motivo,created_at
+1,212,88,2025-11-15,13:00:00,Atendida,Erupción en la piel,2025-11-15 22:22:26
+2,133,25,2025-11-18,13:00:00,Atendida,Dolor dental,2025-11-18 22:03:22
+3,183,32,2025-11-20,11:00:00,Atendida,Fiebre y malestar general,2025-11-20 22:28:32
+4,183,99,2025-11-20,12:00:00,Atendida,Dolor dental,2025-11-20 22:25:35
+5,233,70,2025-11-20,14:30:00,Atendida,Dolor de garganta,2025-11-20 22:16:56
+6,299,70,2025-11-21,08:30:00,Atendida,Tos y congestión nasal,2025-11-21 22:16:50
+7,233,8,2025-11-21,14:30:00,Atendida,Control de presión arterial,2025-11-21 22:01:28
+8,23,11,2025-11-22,11:00:00,No asistio,Control prenatal,2025-11-22 22:59:19
+9,299,32,2025-11-25,13:00:00,Atendida,Dolor lumbar,2025-11-25 22:45:43
+10,288,11,2025-11-26,08:00:00,Atendida,Tos y congestión nasal,2025-11-26 22:06:03
+11,206,64,2025-11-26,12:30:00,Atendida,Seguimiento de tratamiento,2025-11-26 22:44:31
+12,183,64,2025-11-28,11:00:00,Atendida,Dolor lumbar,2025-11-28 22:32:56
+13,264,10,2025-11-29,13:00:00,Atendida,Dolor lumbar,2025-11-29 22:21:13
+14,270,38,2025-12-01,17:00:00,Atendida,Control de presión arterial,2025-12-01 22:36:48
+15,181,55,2025-12-02,07:00:00,Atendida,Dolor lumbar,2025-12-02 22:12:55
+16,78,88,2025-12-04,10:30:00,No asistio,Revisión de resultados,2025-12-04 22:32:20
+17,284,10,2025-12-04,14:00:00,Atendida,Chequeo preventivo,2025-12-04 22:18:16
+18,206,77,2025-12-05,15:30:00,Atendida,Dolor articular,2025-12-05 22:15:34
+19,284,82,2025-12-06,13:30:00,Atendida,Chequeo preventivo,2025-12-06 22:49:28
+20,149,65,2025-12-06,15:30:00,Atendida,Tos y congestión nasal,2025-12-06 22:33:45
+21,133,77,2025-12-08,12:00:00,Atendida,Seguimiento de tratamiento,2025-12-08 22:41:34
+22,69,97,2025-12-08,13:00:00,Atendida,Seguimiento de tratamiento,2025-12-08 22:06:02
+23,87,25,2025-12-09,15:30:00,Cancelada,Tos y congestión nasal,2025-12-09 22:28:41
+24,133,34,2025-12-09,16:30:00,Atendida,Mareos,2025-12-09 22:24:23
+25,206,96,2025-12-12,15:00:00,Atendida,Dolor articular,2025-12-12 22:50:06
+26,174,3,2025-12-16,12:00:00,Atendida,Control de rutina,2025-12-16 22:26:26
+27,184,92,2025-12-17,14:30:00,Atendida,Control de rutina,2025-12-17 22:36:34
+28,88,70,2025-12-18,15:30:00,Atendida,Dolor abdominal,2025-12-18 22:37:08
+29,145,24,2025-12-19,11:30:00,Cancelada,Control de presión arterial,2025-12-19 22:33:44
+30,13,47,2025-12-19,13:30:00,Atendida,Mareos,2025-12-19 22:09:15
+31,69,77,2025-12-19,19:30:00,Atendida,Dolor de garganta,2025-12-19 22:21:40
+32,247,7,2025-12-20,15:30:00,Atendida,Dolor de garganta,2025-12-20 22:17:02
+33,299,24,2025-12-20,18:30:00,Atendida,Erupción en la piel,2025-12-20 22:23:22
+34,53,61,2025-12-22,12:30:00,Atendida,Control de presión arterial,2025-12-22 22:55:38
+35,194,40,2025-12-23,14:30:00,Atendida,Control de presión arterial,2025-12-23 22:32:04
+36,270,87,2025-12-23,16:00:00,Atendida,Chequeo preventivo,2025-12-23 22:42:19
+37,300,32,2025-12-25,10:00:00,Atendida,Control prenatal,2025-12-25 22:26:14
+38,270,8,2025-12-26,14:30:00,Atendida,Dolor articular,2025-12-26 22:48:11
+39,297,91,2025-12-27,12:30:00,Atendida,Evaluación visual,2025-12-27 22:34:46
+40,264,50,2025-12-29,08:30:00,Atendida,Dolor articular,2025-12-29 22:13:54
+41,157,88,2025-12-31,13:30:00,Cancelada,Control de presión arterial,2025-12-31 22:31:04
+42,173,32,2026-01-01,08:30:00,Atendida,Dolor dental,2026-01-01 22:49:47
+43,231,63,2026-01-01,10:00:00,Atendida,Dolor articular,2026-01-01 22:34:52
+44,199,82,2026-01-03,13:30:00,Atendida,Dolor de garganta,2026-01-03 22:38:32
+45,44,10,2026-01-05,10:00:00,Atendida,Evaluación visual,2026-01-05 22:02:29
+46,59,96,2026-01-05,18:30:00,Atendida,Dolor dental,2026-01-05 22:13:32
+47,264,73,2026-01-07,09:30:00,Atendida,Tos y congestión nasal,2026-01-07 22:17:07
+48,280,24,2026-01-08,13:00:00,Atendida,Dolor articular,2026-01-08 22:13:27
+49,67,3,2026-01-08,13:30:00,Atendida,Mareos,2026-01-08 22:27:16
+50,102,83,2026-01-08,13:30:00,Atendida,Chequeo preventivo,2026-01-08 22:08:18
+51,160,87,2026-01-08,14:00:00,Atendida,Fiebre y malestar general,2026-01-08 22:35:06
+52,284,93,2026-01-09,17:00:00,Atendida,Control de diabetes,2026-01-09 22:02:33
+53,199,92,2026-01-10,13:30:00,Atendida,Dolor lumbar,2026-01-10 22:27:01
+54,65,80,2026-01-13,16:00:00,Atendida,Dolor lumbar,2026-01-13 22:10:05
+55,256,88,2026-01-14,16:00:00,Atendida,Mareos,2026-01-14 22:15:12
+56,280,83,2026-01-15,18:00:00,Cancelada,Dolor de cabeza persistente,2026-01-15 22:22:45
+57,57,96,2026-01-16,14:00:00,Atendida,Control pediátrico,2026-01-16 22:07:35
+58,144,11,2026-01-19,10:30:00,Atendida,Erupción en la piel,2026-01-19 22:45:24
+59,174,58,2026-01-19,13:30:00,Atendida,Dolor de garganta,2026-01-19 22:05:38
+60,183,10,2026-01-19,14:00:00,Atendida,Control de diabetes,2026-01-19 22:21:35
+61,6,53,2026-01-20,14:30:00,Cancelada,Dolor lumbar,2026-01-20 22:29:00
+62,273,34,2026-01-20,15:00:00,Atendida,Control prenatal,2026-01-20 22:01:08
+63,233,40,2026-01-20,16:00:00,Atendida,Control de rutina,2026-01-20 22:14:46
+64,45,61,2026-01-22,15:30:00,Atendida,Erupción en la piel,2026-01-22 22:06:02
+65,31,99,2026-01-23,09:00:00,No asistio,Revisión de resultados,2026-01-23 22:21:43
+66,55,50,2026-01-26,08:30:00,Atendida,Dolor de garganta,2026-01-26 22:05:24
+67,238,64,2026-01-28,11:00:00,Cancelada,Control pediátrico,2026-01-28 22:37:35
+68,20,91,2026-01-29,07:30:00,Atendida,Dolor de cabeza persistente,2026-01-29 22:18:45
+69,88,91,2026-01-29,12:30:00,Atendida,Molestias urinarias,2026-01-29 22:58:34
+70,178,28,2026-01-29,17:00:00,Atendida,Revisión de resultados,2026-01-29 22:57:06
+71,65,37,2026-01-30,11:30:00,Atendida,Erupción en la piel,2026-01-30 22:00:39
+72,150,80,2026-01-30,13:30:00,Atendida,Tos y congestión nasal,2026-01-30 22:56:28
+73,257,24,2026-01-30,15:00:00,Atendida,Dolor lumbar,2026-01-30 22:31:31
+74,206,96,2026-02-02,14:00:00,Atendida,Revisión de resultados,2026-02-02 22:21:03
+75,32,32,2026-02-03,09:30:00,Atendida,Control de diabetes,2026-02-03 22:38:31
+76,164,6,2026-02-03,15:00:00,Atendida,Dolor articular,2026-02-03 22:19:33
+77,230,53,2026-02-07,13:00:00,Atendida,Molestias urinarias,2026-02-07 22:21:42
+78,20,38,2026-02-09,19:30:00,Atendida,Control pediátrico,2026-02-09 22:23:00
+79,280,64,2026-02-10,08:30:00,Atendida,Control de diabetes,2026-02-10 22:30:20
+80,76,40,2026-02-11,14:30:00,Atendida,Dolor dental,2026-02-11 22:14:30
+81,30,73,2026-02-13,09:00:00,Atendida,Control prenatal,2026-02-13 22:03:16
+82,65,24,2026-02-14,13:00:00,Atendida,Erupción en la piel,2026-02-14 22:00:10
+83,56,77,2026-02-16,12:00:00,Atendida,Molestias urinarias,2026-02-16 22:20:50
+84,233,6,2026-02-17,18:30:00,Atendida,Control prenatal,2026-02-17 22:23:16
+85,175,93,2026-02-19,11:00:00,Atendida,Dolor de cabeza persistente,2026-02-19 22:01:43
+86,188,46,2026-02-20,10:30:00,Atendida,Dolor dental,2026-02-20 22:42:10
+87,57,50,2026-02-21,08:00:00,Atendida,Dolor lumbar,2026-02-21 22:28:13
+88,221,80,2026-02-23,14:30:00,Atendida,Dolor articular,2026-02-23 22:39:42
+89,246,96,2026-02-27,12:30:00,Atendida,Control pediátrico,2026-02-27 22:44:13
+90,242,37,2026-03-03,11:30:00,Atendida,Dolor de garganta,2026-03-03 22:15:14
+91,258,40,2026-03-03,12:00:00,Atendida,Revisión de resultados,2026-03-03 22:52:55
+92,65,93,2026-03-03,16:30:00,No asistio,Seguimiento de tratamiento,2026-03-03 22:15:58
+93,193,58,2026-03-04,13:00:00,Cancelada,Evaluación visual,2026-03-04 22:39:41
+94,195,97,2026-03-04,17:30:00,Atendida,Molestias urinarias,2026-03-04 22:58:01
+95,91,83,2026-03-05,13:30:00,Atendida,Revisión de resultados,2026-03-05 22:54:52
+96,252,53,2026-03-07,10:30:00,Cancelada,Dolor lumbar,2026-03-07 22:59:33
+97,4,11,2026-03-09,14:30:00,Atendida,Dolor lumbar,2026-03-09 22:09:22
+98,240,59,2026-03-12,09:00:00,Atendida,Dolor abdominal,2026-03-12 22:50:15
+99,107,46,2026-03-12,09:30:00,Atendida,Evaluación visual,2026-03-12 22:59:58
+100,111,93,2026-03-12,10:00:00,Atendida,Seguimiento de tratamiento,2026-03-12 22:49:22
+101,166,50,2026-03-14,10:00:00,Atendida,Dolor articular,2026-03-14 22:04:49
+102,197,91,2026-03-14,10:00:00,No asistio,Revisión de resultados,2026-03-14 22:54:59
+103,135,27,2026-03-14,12:30:00,Atendida,Evaluación visual,2026-03-14 22:36:30
+104,85,6,2026-03-17,15:00:00,Atendida,Dolor de garganta,2026-03-17 22:06:16
+105,218,37,2026-03-17,15:00:00,Atendida,Control de presión arterial,2026-03-17 22:18:05
+106,147,73,2026-03-18,07:00:00,Atendida,Erupción en la piel,2026-03-18 22:05:12
+107,28,3,2026-03-18,13:30:00,Atendida,Tos y congestión nasal,2026-03-18 22:58:11
+108,30,77,2026-03-19,15:30:00,Atendida,Dolor de cabeza persistente,2026-03-19 22:13:35
+109,241,8,2026-03-20,11:30:00,No asistio,Dolor de cabeza persistente,2026-03-20 22:14:40
+110,224,79,2026-03-21,16:00:00,Atendida,Dolor de cabeza persistente,2026-03-21 22:52:56
+111,104,91,2026-03-23,11:00:00,Cancelada,Revisión de resultados,2026-03-23 22:13:37
+112,154,11,2026-03-23,12:00:00,Atendida,Erupción en la piel,2026-03-23 22:13:37
+113,263,97,2026-03-23,18:30:00,Cancelada,Dolor de garganta,2026-03-23 22:38:27
+114,167,61,2026-03-24,09:00:00,Atendida,Dolor abdominal,2026-03-24 22:12:16
+115,71,18,2026-03-25,14:30:00,Atendida,Revisión de resultados,2026-03-25 22:28:56
+116,158,58,2026-03-25,17:00:00,Atendida,Control pediátrico,2026-03-25 22:56:01
+117,298,4,2026-03-26,12:30:00,Atendida,Dolor lumbar,2026-03-26 22:47:03
+118,23,28,2026-03-26,13:00:00,Cancelada,Fiebre y malestar general,2026-03-26 22:20:02
+119,144,93,2026-03-27,18:30:00,Atendida,Dolor de garganta,2026-03-27 22:05:35
+120,169,11,2026-03-28,09:00:00,Atendida,Erupción en la piel,2026-03-28 22:21:17
+121,44,46,2026-03-28,19:00:00,Atendida,Control prenatal,2026-03-28 22:01:57
+122,6,65,2026-03-31,15:00:00,Atendida,Chequeo preventivo,2026-03-31 22:43:30
+123,107,34,2026-03-31,18:30:00,Cancelada,Tos y congestión nasal,2026-03-31 22:46:24
+124,55,1,2026-04-02,09:00:00,Cancelada,Control prenatal,2026-04-02 22:45:04
+125,273,63,2026-04-02,15:00:00,Atendida,Control de presión arterial,2026-04-02 22:27:02
+126,153,70,2026-04-09,14:30:00,Cancelada,Molestias urinarias,2026-04-09 22:25:02
+127,73,7,2026-04-10,10:00:00,Atendida,Control pediátrico,2026-04-10 22:30:04
+128,276,59,2026-04-10,11:30:00,Atendida,Control de diabetes,2026-04-10 22:49:02
+129,243,37,2026-04-10,12:00:00,Atendida,Dolor de cabeza persistente,2026-04-10 22:41:08
+130,284,30,2026-04-11,15:00:00,Atendida,Revisión de resultados,2026-04-11 22:30:23
+131,300,91,2026-04-11,15:30:00,Atendida,Control pediátrico,2026-04-11 22:40:37
+132,129,83,2026-04-14,15:30:00,No asistio,Control pediátrico,2026-04-14 22:38:01
+133,97,7,2026-04-14,18:30:00,Atendida,Control de diabetes,2026-04-14 22:53:41
+134,281,86,2026-04-15,16:30:00,Atendida,Control prenatal,2026-04-15 22:25:37
+135,16,86,2026-04-16,16:30:00,Atendida,Dolor de garganta,2026-04-16 22:15:02
+136,53,46,2026-04-17,07:00:00,Cancelada,Erupción en la piel,2026-04-17 22:32:02
+137,48,30,2026-04-17,13:30:00,Atendida,Dolor de cabeza persistente,2026-04-17 22:35:08
+138,56,59,2026-04-17,14:00:00,Atendida,Control pediátrico,2026-04-17 22:38:47
+139,231,50,2026-04-18,13:30:00,Atendida,Control de presión arterial,2026-04-18 22:11:38
+140,228,96,2026-04-20,13:30:00,Cancelada,Dolor lumbar,2026-04-20 22:37:53
+141,174,11,2026-04-20,16:00:00,Atendida,Molestias urinarias,2026-04-20 22:14:58
+142,87,88,2026-04-21,11:00:00,No asistio,Tos y congestión nasal,2026-04-21 22:12:46
+143,192,6,2026-04-21,16:30:00,Atendida,Dolor dental,2026-04-21 22:43:19
+144,152,63,2026-04-30,12:00:00,No asistio,Dolor abdominal,2026-04-30 22:55:27
+145,172,30,2026-04-30,13:00:00,Atendida,Fiebre y malestar general,2026-04-30 22:02:27
+146,66,1,2026-05-01,12:30:00,No asistio,Evaluación visual,2026-05-01 22:48:14
+147,159,28,2026-05-04,09:30:00,Atendida,Control de diabetes,2026-05-04 22:27:07
+148,208,73,2026-05-06,07:00:00,Atendida,Control de diabetes,2026-05-06 22:35:21
+149,139,81,2026-05-06,14:00:00,Atendida,Chequeo preventivo,2026-05-06 22:33:18
+150,271,1,2026-05-07,08:00:00,Atendida,Fiebre y malestar general,2026-05-07 22:53:49
+151,226,72,2026-05-08,14:00:00,Atendida,Dolor articular,2026-05-08 22:59:19
+152,142,10,2026-05-09,16:30:00,Atendida,Dolor dental,2026-05-09 22:55:52
+153,107,79,2026-05-09,19:30:00,Atendida,Chequeo preventivo,2026-05-09 22:22:09
+154,73,97,2026-05-11,18:30:00,Atendida,Mareos,2026-05-11 22:57:44
+155,239,32,2026-05-12,11:30:00,Atendida,Control de rutina,2026-05-12 22:08:39
+156,178,87,2026-05-14,10:00:00,Atendida,Dolor abdominal,2026-05-14 22:21:20
+157,124,30,2026-05-16,12:30:00,Atendida,Control de presión arterial,2026-05-16 22:47:36
+158,287,24,2026-05-16,15:30:00,Atendida,Erupción en la piel,2026-05-16 22:55:56
+159,237,46,2026-05-16,17:00:00,Atendida,Molestias urinarias,2026-05-16 22:15:44
+160,243,83,2026-05-16,17:30:00,Atendida,Control de diabetes,2026-05-16 22:59:19
+161,47,37,2026-05-18,09:00:00,Cancelada,Molestias urinarias,2026-05-18 22:46:53
+162,75,96,2026-05-18,14:30:00,Atendida,Chequeo preventivo,2026-05-18 22:20:06
+163,100,83,2026-05-19,10:00:00,Atendida,Tos y congestión nasal,2026-05-19 22:25:28
+164,41,27,2026-05-19,12:30:00,Atendida,Revisión de resultados,2026-05-19 22:29:13
+165,159,3,2026-05-19,14:00:00,Atendida,Dolor lumbar,2026-05-19 22:41:44
+166,51,65,2026-05-19,14:30:00,Atendida,Dolor lumbar,2026-05-19 22:51:46
+167,276,32,2026-05-21,12:30:00,Atendida,Revisión de resultados,2026-05-21 22:00:50
+168,115,83,2026-05-21,15:00:00,Atendida,Dolor de cabeza persistente,2026-05-21 22:29:21
+169,169,99,2026-05-22,08:30:00,Atendida,Tos y congestión nasal,2026-05-22 22:00:40
+170,185,72,2026-05-22,10:00:00,Atendida,Dolor abdominal,2026-05-22 22:36:47
+171,12,28,2026-05-25,09:00:00,Atendida,Control prenatal,2026-05-25 22:16:30
+172,102,30,2026-05-25,11:30:00,Atendida,Revisión de resultados,2026-05-25 22:09:41
+173,136,53,2026-05-25,14:00:00,Atendida,Dolor articular,2026-05-25 22:50:53
+174,241,4,2026-05-26,09:00:00,Atendida,Chequeo preventivo,2026-05-26 22:28:49
+175,43,59,2026-05-27,15:00:00,Atendida,Dolor de garganta,2026-05-27 22:33:50
+176,148,47,2026-05-28,16:00:00,Atendida,Revisión de resultados,2026-05-28 22:23:19
+177,129,30,2026-05-29,09:30:00,Atendida,Dolor dental,2026-05-29 22:40:41
+178,1,50,2026-06-01,08:00:00,Atendida,Mareos,2026-06-01 22:47:27
+179,192,27,2026-06-02,13:30:00,Atendida,Erupción en la piel,2026-06-02 22:28:10
+180,78,63,2026-06-03,11:00:00,Atendida,Seguimiento de tratamiento,2026-06-03 22:37:27
+181,128,88,2026-06-03,16:00:00,Atendida,Control de diabetes,2026-06-03 22:05:33
+182,219,86,2026-06-04,15:00:00,Atendida,Evaluación visual,2026-06-04 22:48:29
+183,263,72,2026-06-05,10:00:00,Atendida,Revisión de resultados,2026-06-05 22:57:14
+184,28,99,2026-06-05,10:30:00,No asistio,Control de rutina,2026-06-05 22:39:22
+185,53,82,2026-06-06,08:00:00,Atendida,Control pediátrico,2026-06-06 22:44:54
+186,122,18,2026-06-06,10:30:00,Atendida,Revisión de resultados,2026-06-06 22:09:55
+187,222,30,2026-06-08,09:00:00,Atendida,Dolor articular,2026-06-08 22:35:34
+188,19,24,2026-06-09,13:00:00,Atendida,Dolor abdominal,2026-06-09 22:15:57
+189,271,22,2026-06-12,12:00:00,Atendida,Dolor articular,2026-06-12 22:16:20
+190,237,82,2026-06-13,09:00:00,Atendida,Chequeo preventivo,2026-06-13 22:24:18
+191,84,92,2026-06-13,16:00:00,Atendida,Molestias urinarias,2026-06-13 22:03:50
+192,148,10,2026-06-13,16:00:00,Cancelada,Erupción en la piel,2026-06-13 22:23:46
+193,295,72,2026-06-15,09:30:00,Atendida,Dolor articular,2026-06-15 22:34:23
+194,138,53,2026-06-15,09:30:00,Atendida,Tos y congestión nasal,2026-06-15 22:27:18
+195,202,97,2026-06-15,13:30:00,Atendida,Evaluación visual,2026-06-15 22:48:28
+196,23,27,2026-06-19,11:30:00,Atendida,Chequeo preventivo,2026-06-19 22:14:29
+197,230,25,2026-06-19,14:00:00,Cancelada,Evaluación visual,2026-06-19 22:36:15
+198,6,25,2026-06-19,15:30:00,Atendida,Dolor articular,2026-06-19 22:32:04
+199,68,27,2026-06-20,09:30:00,Atendida,Dolor dental,2026-06-20 22:15:05
+200,143,63,2026-06-20,10:00:00,Atendida,Revisión de resultados,2026-06-20 22:33:39
+201,175,28,2026-06-22,08:00:00,No asistio,Chequeo preventivo,2026-06-22 22:16:01
+202,30,11,2026-06-24,10:00:00,Atendida,Control de rutina,2026-06-24 22:43:03
+203,122,99,2026-06-25,07:30:00,Atendida,Control pediátrico,2026-06-25 22:38:10
+204,124,46,2026-06-26,12:00:00,Atendida,Control de diabetes,2026-06-26 22:01:52
+205,227,25,2026-06-26,18:00:00,Atendida,Control pediátrico,2026-06-26 22:08:02
+206,206,18,2026-06-27,08:30:00,Atendida,Evaluación visual,2026-06-27 22:57:34
+207,163,79,2026-06-27,16:30:00,Atendida,Tos y congestión nasal,2026-06-27 22:26:24
+208,148,24,2026-06-30,10:00:00,Atendida,Dolor dental,2026-06-30 22:50:13
+209,137,92,2026-07-01,11:00:00,Atendida,Seguimiento de tratamiento,2026-07-01 22:25:17
+210,236,3,2026-07-02,17:30:00,Atendida,Dolor articular,2026-07-02 22:15:12
+211,252,8,2026-07-03,08:00:00,Atendida,Control pediátrico,2026-07-03 22:48:08
+212,79,8,2026-07-03,11:30:00,No asistio,Chequeo preventivo,2026-07-03 22:40:18
+213,256,80,2026-07-03,15:30:00,Atendida,Chequeo preventivo,2026-07-03 22:36:51
+214,168,38,2026-07-04,10:00:00,No asistio,Dolor abdominal,2026-07-04 22:25:44
+215,272,50,2026-07-04,12:30:00,Cancelada,Dolor abdominal,2026-07-04 22:30:56
+216,172,88,2026-07-04,12:30:00,Atendida,Dolor lumbar,2026-07-04 22:49:59
+217,70,79,2026-07-04,18:30:00,Atendida,Dolor abdominal,2026-07-04 22:58:13
+218,117,34,2026-07-07,15:00:00,Atendida,Fiebre y malestar general,2026-07-07 22:13:09
+219,196,73,2026-07-10,10:00:00,Atendida,Chequeo preventivo,2026-07-10 22:04:03
+220,32,97,2026-07-15,14:00:00,Atendida,Evaluación visual,2026-07-15 22:10:28
+221,106,1,2026-07-16,14:00:00,Atendida,Control de rutina,2026-07-16 22:32:55
+222,254,77,2026-07-16,16:30:00,No asistio,Fiebre y malestar general,2026-07-16 22:20:23
+223,271,87,2026-07-18,15:00:00,Atendida,Erupción en la piel,2026-07-18 22:29:34
+224,298,83,2026-07-21,12:30:00,Atendida,Dolor de garganta,2026-07-21 22:43:34
+225,229,6,2026-07-21,13:00:00,Cancelada,Dolor de cabeza persistente,2026-07-21 22:47:30
+226,2,93,2026-07-21,14:00:00,Atendida,Dolor dental,2026-07-21 22:59:14
+227,179,70,2026-07-23,13:00:00,Atendida,Dolor abdominal,2026-07-23 22:03:04
+228,294,65,2026-07-24,15:00:00,Atendida,Tos y congestión nasal,2026-07-24 22:56:56
+229,51,7,2026-07-24,15:00:00,Atendida,Erupción en la piel,2026-07-24 22:25:58
+230,21,88,2026-07-25,09:30:00,Atendida,Chequeo preventivo,2026-07-25 22:03:27
+231,85,77,2026-07-27,09:30:00,Atendida,Control pediátrico,2026-07-27 22:27:12
+232,158,86,2026-07-27,10:00:00,Atendida,Tos y congestión nasal,2026-07-27 22:38:57
+233,219,70,2026-07-28,09:00:00,Atendida,Dolor de cabeza persistente,2026-07-28 22:47:16
+234,240,32,2026-07-30,12:30:00,Atendida,Seguimiento de tratamiento,2026-07-30 22:20:01
+235,152,86,2026-07-30,15:00:00,Atendida,Control prenatal,2026-07-30 22:33:25
+236,48,80,2026-07-31,11:30:00,Atendida,Dolor de cabeza persistente,2026-07-31 22:18:13
+237,129,34,2026-07-31,13:00:00,Atendida,Mareos,2026-07-31 22:38:07
+238,215,34,2026-07-31,18:00:00,Atendida,Control prenatal,2026-07-31 22:08:43
+239,42,72,2026-08-03,10:30:00,Atendida,Control de presión arterial,2026-08-03 22:24:43
+240,146,28,2026-08-03,12:30:00,Atendida,Dolor de cabeza persistente,2026-08-03 22:38:11
+241,20,53,2026-08-03,13:30:00,Atendida,Control de diabetes,2026-08-03 22:33:07
+242,276,11,2026-08-05,13:30:00,No asistio,Control de presión arterial,2026-08-05 22:43:16
+243,10,58,2026-08-05,17:00:00,Atendida,Control de rutina,2026-08-05 22:49:36
+244,298,4,2026-08-06,12:00:00,Atendida,Erupción en la piel,2026-08-06 22:37:41
+245,284,1,2026-08-06,12:30:00,Atendida,Control de diabetes,2026-08-06 22:53:41
+246,21,47,2026-08-06,16:00:00,Atendida,Dolor de garganta,2026-08-06 22:57:39
+247,15,70,2026-08-06,18:00:00,Atendida,Dolor de garganta,2026-08-06 22:06:15
+248,283,86,2026-08-06,19:00:00,Cancelada,Mareos,2026-08-06 22:57:37
+249,20,40,2026-08-08,15:30:00,Atendida,Mareos,2026-08-08 22:36:39
+250,237,30,2026-08-08,16:00:00,Atendida,Control de rutina,2026-08-08 22:50:29
+251,19,96,2026-08-10,13:00:00,Atendida,Dolor articular,2026-08-10 22:25:55
+252,219,83,2026-08-11,11:00:00,No asistio,Dolor articular,2026-08-11 22:04:09
+253,273,73,2026-08-12,07:30:00,Atendida,Erupción en la piel,2026-08-12 22:16:49
+254,229,91,2026-08-13,11:00:00,Atendida,Mareos,2026-08-13 22:33:21
+255,299,91,2026-08-13,12:00:00,Atendida,Dolor de cabeza persistente,2026-08-13 22:14:21
+256,183,77,2026-08-13,15:00:00,Atendida,Dolor de cabeza persistente,2026-08-13 22:21:53
+257,213,8,2026-08-15,10:30:00,Atendida,Dolor de cabeza persistente,2026-08-15 22:36:22
+258,68,63,2026-08-15,11:30:00,Atendida,Dolor de garganta,2026-08-15 22:39:22
+259,246,27,2026-08-15,14:30:00,Atendida,Control prenatal,2026-08-15 22:11:20
+260,195,79,2026-08-15,17:00:00,Atendida,Revisión de resultados,2026-08-15 22:30:41
+261,271,91,2026-08-17,11:00:00,Atendida,Revisión de resultados,2026-08-17 22:41:57
+262,283,27,2026-08-18,15:00:00,Atendida,Control prenatal,2026-08-18 22:34:52
+263,108,42,2026-08-18,15:00:00,Atendida,Control prenatal,2026-08-18 22:28:18
+264,147,34,2026-08-18,15:30:00,Atendida,Dolor dental,2026-08-18 22:56:25
+265,54,95,2026-08-19,10:00:00,Atendida,Revisión de resultados,2026-08-19 22:42:14
+266,202,1,2026-08-20,10:00:00,Atendida,Dolor articular,2026-08-20 22:30:58
+267,184,87,2026-08-20,10:30:00,Atendida,Molestias urinarias,2026-08-20 22:28:51
+268,144,86,2026-08-24,10:30:00,Atendida,Control de diabetes,2026-08-24 22:43:07
+269,196,37,2026-08-25,09:30:00,Atendida,Dolor lumbar,2026-08-25 22:31:41
+270,104,11,2026-08-26,08:00:00,Atendida,Control de presión arterial,2026-08-26 22:47:05
+271,132,96,2026-08-28,12:00:00,Atendida,Dolor dental,2026-08-28 22:10:36
+272,271,24,2026-08-28,14:00:00,No asistio,Molestias urinarias,2026-08-28 22:43:38
+273,20,82,2026-08-29,11:30:00,Atendida,Control de diabetes,2026-08-29 22:19:47
+274,48,6,2026-08-31,15:30:00,Atendida,Fiebre y malestar general,2026-08-31 22:50:48
+275,265,80,2026-08-31,19:30:00,Atendida,Revisión de resultados,2026-08-31 22:19:59
+276,163,34,2026-09-01,18:30:00,Atendida,Mareos,2026-09-01 22:59:47
+277,247,1,2026-09-03,10:30:00,Atendida,Dolor lumbar,2026-09-03 22:38:23
+278,275,42,2026-09-03,11:30:00,Atendida,Mareos,2026-09-03 22:05:13
+279,54,83,2026-09-03,14:00:00,No asistio,Molestias urinarias,2026-09-03 22:43:31
+280,49,22,2026-09-03,16:00:00,Atendida,Mareos,2026-09-03 22:43:36
+281,13,27,2026-09-05,08:00:00,Atendida,Molestias urinarias,2026-09-05 22:16:23
+282,235,92,2026-09-05,16:00:00,Atendida,Revisión de resultados,2026-09-05 22:11:25
+283,290,32,2026-09-08,13:30:00,Atendida,Tos y congestión nasal,2026-09-08 22:23:10
+284,200,25,2026-09-08,14:30:00,Atendida,Control de rutina,2026-09-08 22:57:25
+285,284,93,2026-09-10,07:30:00,Atendida,Molestias urinarias,2026-09-10 22:32:08
+286,250,88,2026-09-10,09:00:00,Atendida,Control prenatal,2026-09-10 22:52:46
+287,224,70,2026-09-10,16:30:00,No asistio,Control de presión arterial,2026-09-10 22:17:35
+288,35,70,2026-09-11,08:30:00,Atendida,Control pediátrico,2026-09-11 22:43:52
+289,298,25,2026-09-11,14:30:00,Atendida,Dolor de garganta,2026-09-11 22:54:09
+290,280,25,2026-09-11,19:00:00,Atendida,Dolor abdominal,2026-09-11 22:43:27
+291,297,87,2026-09-12,08:00:00,Atendida,Molestias urinarias,2026-09-12 22:53:52
+292,10,8,2026-09-12,10:00:00,Atendida,Mareos,2026-09-12 22:21:08
+293,189,28,2026-09-14,11:30:00,Atendida,Evaluación visual,2026-09-14 22:45:52
+294,161,4,2026-09-17,10:00:00,Cancelada,Dolor de garganta,2026-09-17 22:50:07
+295,235,42,2026-09-17,11:30:00,No asistio,Control de rutina,2026-09-17 22:57:02
+296,202,91,2026-09-19,08:30:00,Atendida,Dolor de garganta,2026-09-19 22:53:42
+297,11,53,2026-09-19,13:00:00,Atendida,Dolor de cabeza persistente,2026-09-19 22:04:33
+298,169,6,2026-09-21,13:00:00,Atendida,Control prenatal,2026-09-21 22:55:23
+299,225,64,2026-09-22,12:30:00,Atendida,Dolor lumbar,2026-09-22 22:58:23
+300,231,18,2026-09-23,15:30:00,Atendida,Molestias urinarias,2026-09-23 22:42:39
+301,298,24,2026-09-24,13:00:00,Atendida,Dolor de garganta,2026-09-24 22:44:51
+302,100,24,2026-09-24,14:00:00,Atendida,Mareos,2026-09-24 22:35:17
+303,200,34,2026-09-25,14:00:00,Atendida,Dolor lumbar,2026-09-25 22:07:57
+304,15,25,2026-09-26,08:30:00,Atendida,Tos y congestión nasal,2026-09-26 22:32:25
+305,12,61,2026-09-28,13:30:00,Atendida,Evaluación visual,2026-09-28 22:34:58
+306,57,42,2026-09-29,09:30:00,Atendida,Seguimiento de tratamiento,2026-09-29 22:48:33
+307,200,99,2026-10-02,12:30:00,Atendida,Dolor dental,2026-10-02 22:31:47
+308,81,92,2026-10-03,13:00:00,Atendida,Control de rutina,2026-10-03 22:50:09
+309,53,11,2026-10-03,14:00:00,Atendida,Evaluación visual,2026-10-03 22:18:33
+310,86,30,2026-10-05,10:30:00,Atendida,Tos y congestión nasal,2026-10-05 22:13:11
+311,131,80,2026-10-05,19:30:00,Cancelada,Chequeo preventivo,2026-10-05 22:34:40
+312,177,25,2026-10-06,14:00:00,Atendida,Molestias urinarias,2026-10-06 22:55:22
+313,217,86,2026-10-07,17:30:00,Atendida,Fiebre y malestar general,2026-10-07 22:18:20
+314,128,55,2026-10-08,07:00:00,Atendida,Control de rutina,2026-10-08 22:32:58
+315,137,47,2026-10-08,09:30:00,Atendida,Dolor articular,2026-10-08 22:20:16
+316,11,73,2026-10-10,15:00:00,Atendida,Chequeo preventivo,2026-10-10 22:33:39
+317,229,10,2026-10-12,08:30:00,Atendida,Dolor abdominal,2026-10-12 22:45:37
+318,193,61,2026-10-12,13:30:00,Atendida,Molestias urinarias,2026-10-12 22:46:28
+319,213,4,2026-10-15,10:00:00,Atendida,Seguimiento de tratamiento,2026-10-15 22:28:51
+320,166,82,2026-10-15,10:00:00,Atendida,Molestias urinarias,2026-10-15 22:05:31
+321,281,4,2026-10-15,11:00:00,No asistio,Control prenatal,2026-10-15 22:28:18
+322,32,95,2026-10-15,17:30:00,Atendida,Control de rutina,2026-10-15 22:41:05
+323,105,37,2026-10-16,12:00:00,Atendida,Dolor articular,2026-10-16 22:27:32
+324,106,18,2026-10-16,12:00:00,Cancelada,Dolor de cabeza persistente,2026-10-16 22:54:14
+325,265,97,2026-10-19,14:00:00,Atendida,Chequeo preventivo,2026-10-19 22:01:43
+326,126,32,2026-10-22,11:00:00,Atendida,Control prenatal,2026-10-22 22:53:58
+327,60,24,2026-10-22,13:00:00,Atendida,Control de diabetes,2026-10-22 22:48:00
+328,226,79,2026-10-23,11:30:00,Cancelada,Dolor de cabeza persistente,2026-10-23 22:14:26
+329,57,40,2026-10-27,09:00:00,No asistio,Control de diabetes,2026-10-27 22:34:59
+330,208,53,2026-10-27,10:00:00,Atendida,Fiebre y malestar general,2026-10-27 22:11:16
+331,24,64,2026-10-30,12:00:00,Atendida,Control de presión arterial,2026-10-30 22:29:15
+332,200,27,2026-10-31,08:30:00,Atendida,Fiebre y malestar general,2026-10-31 22:03:45
+333,107,50,2026-10-31,11:00:00,Atendida,Chequeo preventivo,2026-10-31 22:43:51
+334,297,93,2026-11-03,19:00:00,Atendida,Tos y congestión nasal,2026-11-03 22:44:46
+335,278,63,2026-11-04,12:00:00,No asistio,Control de diabetes,2026-11-04 22:53:33
+336,170,86,2026-11-04,18:00:00,No asistio,Dolor de cabeza persistente,2026-11-04 22:22:59
+337,234,8,2026-11-06,10:00:00,Atendida,Molestias urinarias,2026-11-06 22:11:57
+338,130,64,2026-11-06,10:30:00,Atendida,Control de rutina,2026-11-06 22:34:38
+339,51,40,2026-11-07,15:30:00,Atendida,Molestias urinarias,2026-11-07 22:30:16
+340,282,46,2026-11-07,16:00:00,Atendida,Dolor articular,2026-11-07 22:23:42
+341,10,30,2026-11-07,16:30:00,Atendida,Mareos,2026-11-07 22:19:43
+342,200,96,2026-11-09,15:30:00,Atendida,Control pediátrico,2026-11-09 22:28:53
+343,225,93,2026-11-10,18:30:00,Atendida,Chequeo preventivo,2026-11-10 22:44:06
+344,177,88,2026-11-11,10:00:00,No asistio,Dolor dental,2026-11-11 22:46:36
+345,241,59,2026-11-11,13:00:00,Atendida,Control pediátrico,2026-11-11 22:23:10

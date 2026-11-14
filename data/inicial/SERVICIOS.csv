@@ -1,0 +1,45 @@
+﻿id_servicio,nombre_servicio,descripcion,precio,created_at
+1,Consulta Medicina General,Consulta ambulatoria,60.00,2025-11-14 06:00:00
+2,Consulta Pediatría,Consulta pediátrica,80.00,2025-11-14 06:00:00
+3,Consulta Ginecología,Consulta ginecológica,90.00,2025-11-14 06:00:00
+4,Consulta Cardiología,Consulta cardiológica,120.00,2025-11-14 06:00:00
+5,Consulta Dermatología,Consulta dermatológica,100.00,2025-11-14 06:00:00
+6,Consulta Traumatología,Consulta traumatológica,100.00,2025-11-14 06:00:00
+7,Consulta Odontología,Consulta odontológica,70.00,2025-11-14 06:00:00
+8,Consulta Nutrición,Consulta nutricional,70.00,2025-11-14 06:00:00
+9,Consulta Endocrinología,Consulta endocrinológica,110.00,2025-11-14 06:00:00
+10,Consulta Medicina Interna,Consulta de medicina interna,110.00,2025-11-14 06:00:00
+11,Hemograma completo,Laboratorio,25.00,2025-11-14 06:00:00
+12,Glucosa en ayunas,Laboratorio,12.00,2025-11-14 06:00:00
+13,Perfil lipídico,Laboratorio,55.00,2025-11-14 06:00:00
+14,Examen de orina,Laboratorio,15.00,2025-11-14 06:00:00
+15,Urea y creatinina,Laboratorio,30.00,2025-11-14 06:00:00
+16,Hemoglobina glicosilada,Laboratorio,60.00,2025-11-14 06:00:00
+17,Perfil hepático,Laboratorio,70.00,2025-11-14 06:00:00
+18,Perfil tiroideo (TSH),Laboratorio,65.00,2025-11-14 06:00:00
+19,Prueba rápida COVID-19,Laboratorio,40.00,2025-11-14 06:00:00
+20,Examen de heces,Laboratorio,15.00,2025-11-14 06:00:00
+21,Radiografía de tórax,Imagenología,70.00,2025-11-14 06:00:00
+22,Radiografía de columna,Imagenología,90.00,2025-11-14 06:00:00
+23,Radiografía de extremidad,Imagenología,65.00,2025-11-14 06:00:00
+24,Ecografía abdominal,Imagenología,120.00,2025-11-14 06:00:00
+25,Ecografía obstétrica,Imagenología,110.00,2025-11-14 06:00:00
+26,Ecografía pélvica,Imagenología,110.00,2025-11-14 06:00:00
+27,Ecografía mamaria,Imagenología,130.00,2025-11-14 06:00:00
+28,Electrocardiograma,Cardiología,60.00,2025-11-14 06:00:00
+29,Ecocardiograma,Cardiología,250.00,2025-11-14 06:00:00
+30,Prueba de esfuerzo,Cardiología,280.00,2025-11-14 06:00:00
+31,Espirometría,Neumología,90.00,2025-11-14 06:00:00
+32,Nebulización,Procedimiento,30.00,2025-11-14 06:00:00
+33,Curación de herida,Procedimiento,35.00,2025-11-14 06:00:00
+34,Sutura simple,Procedimiento,90.00,2025-11-14 06:00:00
+35,Inyectable intramuscular,Procedimiento,15.00,2025-11-14 06:00:00
+36,Vacunación (aplicación),Procedimiento,25.00,2025-11-14 06:00:00
+37,Limpieza dental,Odontología,90.00,2025-11-14 06:00:00
+38,Extracción dental simple,Odontología,120.00,2025-11-14 06:00:00
+39,Obturación dental,Odontología,110.00,2025-11-14 06:00:00
+40,Control de gestación,Obstetricia,80.00,2025-11-14 06:00:00
+41,Papanicolaou,Obstetricia,60.00,2025-11-14 06:00:00
+42,Terapia física (sesión),Rehabilitación,70.00,2025-11-14 06:00:00
+43,Certificado médico,Administrativo,40.00,2025-11-14 06:00:00
+44,Holter de presión arterial,Cardiología,220.00,2025-11-14 06:00:00

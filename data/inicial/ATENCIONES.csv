@@ -1,0 +1,294 @@
+﻿id_atencion,id_cita,diagnostico,observaciones,fecha_atencion,created_at
+1,1,Anemia ferropénica,Se recomienda dieta y actividad física,2025-11-15 13:08:00,2025-11-15 22:11:58
+2,2,Bronquitis aguda,Paciente refiere mejoría parcial,2025-11-18 13:06:00,2025-11-18 22:54:27
+3,3,Ansiedad leve,Se deriva a especialista para evaluación,2025-11-20 11:18:00,2025-11-20 22:04:37
+4,4,Caries dental,Sin signos de complicación,2025-11-20 12:04:00,2025-11-20 22:27:48
+5,5,Control prenatal normal,Evolución favorable,2025-11-20 14:43:00,2025-11-20 22:15:11
+6,6,Sinusitis aguda,Se explica signos de alarma,2025-11-21 08:33:00,2025-11-21 22:11:43
+7,7,Infección urinaria baja,Se recomienda dieta y actividad física,2025-11-21 14:35:00,2025-11-21 22:57:14
+8,9,Artrosis de rodilla,"Paciente estable, se indica control en 15 días",2025-11-25 13:13:00,2025-11-25 22:52:45
+9,10,Hipertensión arterial esencial,Se solicitan exámenes de laboratorio,2025-11-26 08:13:00,2025-11-26 22:16:28
+10,11,Contractura muscular,Se recomienda dieta y actividad física,2025-11-26 12:50:00,2025-11-26 22:49:31
+11,12,Anemia ferropénica,Se deriva a especialista para evaluación,2025-11-28 11:08:00,2025-11-28 22:03:41
+12,13,Contractura muscular,Paciente refiere mejoría parcial,2025-11-29 13:03:00,2025-11-29 22:01:41
+13,14,Hipertensión arterial esencial,Paciente refiere mejoría parcial,2025-12-01 17:05:00,2025-12-01 22:53:50
+14,15,Rinitis alérgica,Se deriva a especialista para evaluación,2025-12-02 07:05:00,2025-12-02 22:45:03
+15,17,Infección urinaria baja,Evolución favorable,2025-12-04 14:01:00,2025-12-04 22:07:59
+16,18,Anemia ferropénica,Se recomienda dieta y actividad física,2025-12-05 15:46:00,2025-12-05 22:21:22
+17,19,Gastroenteritis aguda,"Paciente estable, se indica control en 15 días",2025-12-06 13:42:00,2025-12-06 22:22:18
+18,20,Dermatitis alérgica,,2025-12-06 15:47:00,2025-12-06 22:39:46
+19,21,Control de niño sano,Se indica reposo relativo,2025-12-08 12:14:00,2025-12-08 22:37:26
+20,22,Dislipidemia,Se explica signos de alarma,2025-12-08 13:02:00,2025-12-08 22:24:45
+21,24,Dermatitis alérgica,Control en 1 mes,2025-12-09 16:34:00,2025-12-09 22:04:23
+22,25,Síndrome febril,Se recomienda dieta y actividad física,2025-12-12 15:20:00,2025-12-12 22:32:30
+23,26,Sinusitis aguda,Control en 1 mes,2025-12-16 12:04:00,2025-12-16 22:34:25
+24,27,Artrosis de rodilla,Se deriva a especialista para evaluación,2025-12-17 14:48:00,2025-12-17 22:09:40
+25,28,Obesidad,,2025-12-18 15:42:00,2025-12-18 22:08:12
+26,30,Rinitis alérgica,Se indica reposo relativo,2025-12-19 13:32:00,2025-12-19 22:27:20
+27,31,Dermatitis alérgica,Se deriva a especialista para evaluación,2025-12-19 19:35:00,2025-12-19 22:34:49
+28,32,Artrosis de rodilla,"Paciente estable, se indica control en 15 días",2025-12-20 15:43:00,2025-12-20 22:09:23
+29,33,Ansiedad leve,"Paciente estable, se indica control en 15 días",2025-12-20 18:30:00,2025-12-20 22:47:54
+30,34,Ansiedad leve,Paciente refiere mejoría parcial,2025-12-22 12:47:00,2025-12-22 22:26:15
+31,35,Gastritis aguda,Control en 1 mes,2025-12-23 14:49:00,2025-12-23 22:11:21
+32,36,Bronquitis aguda,"Paciente estable, se indica control en 15 días",2025-12-23 16:18:00,2025-12-23 22:31:10
+33,37,Ansiedad leve,Se deriva a especialista para evaluación,2025-12-25 10:12:00,2025-12-25 22:49:18
+34,38,Diabetes mellitus tipo 2,Se deriva a especialista para evaluación,2025-12-26 14:43:00,2025-12-26 22:04:23
+35,39,Lesión de tejidos blandos,Se solicitan exámenes de laboratorio,2025-12-27 12:30:00,2025-12-27 22:32:22
+36,40,Obesidad,Sin signos de complicación,2025-12-29 08:32:00,2025-12-29 22:59:16
+37,42,Asma bronquial leve,Se explica signos de alarma,2026-01-01 08:49:00,2026-01-01 22:52:24
+38,43,Rinitis alérgica,Se deriva a especialista para evaluación,2026-01-01 10:17:00,2026-01-01 22:40:04
+39,44,Gastritis aguda,Se solicitan exámenes de laboratorio,2026-01-03 13:39:00,2026-01-03 22:51:09
+40,45,Artrosis de rodilla,Se indica reposo relativo,2026-01-05 10:14:00,2026-01-05 22:19:04
+41,46,Anemia ferropénica,Se explica signos de alarma,2026-01-05 18:49:00,2026-01-05 22:46:40
+42,47,Ansiedad leve,Evolución favorable,2026-01-07 09:33:00,2026-01-07 22:51:00
+43,48,Infección urinaria baja,Se explica signos de alarma,2026-01-08 13:11:00,2026-01-08 22:11:07
+44,49,Contractura muscular,Se explica signos de alarma,2026-01-08 13:36:00,2026-01-08 22:42:10
+45,50,Faringitis aguda,Se solicitan exámenes de laboratorio,2026-01-08 13:31:00,2026-01-08 22:17:35
+46,51,Rinofaringitis viral,Control en 1 mes,2026-01-08 14:09:00,2026-01-08 22:52:35
+47,52,Otitis media aguda,,2026-01-09 17:14:00,2026-01-09 22:46:50
+48,53,Síndrome febril,Sin signos de complicación,2026-01-10 13:33:00,2026-01-10 22:25:40
+49,54,Dislipidemia,,2026-01-13 16:14:00,2026-01-13 22:50:25
+50,55,Faringitis aguda,Se recomienda dieta y actividad física,2026-01-14 16:12:00,2026-01-14 22:27:43
+51,57,Caries dental,Sin signos de complicación,2026-01-16 14:12:00,2026-01-16 22:20:12
+52,58,Conjuntivitis,Se indica reposo relativo,2026-01-19 10:37:00,2026-01-19 22:30:13
+53,59,Dermatitis alérgica,Se indica reposo relativo,2026-01-19 13:37:00,2026-01-19 22:20:12
+54,60,Ansiedad leve,Se explica signos de alarma,2026-01-19 14:10:00,2026-01-19 22:42:55
+55,62,Lumbalgia mecánica,Se recomienda dieta y actividad física,2026-01-20 15:02:00,2026-01-20 22:41:55
+56,63,Hipotiroidismo,Se recomienda dieta y actividad física,2026-01-20 16:04:00,2026-01-20 22:57:13
+57,64,Obesidad,,2026-01-22 15:34:00,2026-01-22 22:16:58
+58,66,Infección urinaria baja,Se recomienda dieta y actividad física,2026-01-26 08:48:00,2026-01-26 22:46:06
+59,68,Rinitis alérgica,,2026-01-29 07:32:00,2026-01-29 22:40:53
+60,69,Infección urinaria baja,"Paciente estable, se indica control en 15 días",2026-01-29 12:33:00,2026-01-29 22:37:32
+61,70,Asma bronquial leve,Se solicitan exámenes de laboratorio,2026-01-29 17:00:00,2026-01-29 22:35:38
+62,71,Sinusitis aguda,Se deriva a especialista para evaluación,2026-01-30 11:50:00,2026-01-30 22:24:16
+63,72,Caries dental,Se recomienda dieta y actividad física,2026-01-30 13:48:00,2026-01-30 22:43:28
+64,73,Cefalea tensional,Evolución favorable,2026-01-30 15:11:00,2026-01-30 22:44:27
+65,74,Sinusitis aguda,,2026-02-02 14:00:00,2026-02-02 22:44:29
+66,75,Síndrome febril,Se deriva a especialista para evaluación,2026-02-03 09:33:00,2026-02-03 22:44:36
+67,76,Gastroenteritis aguda,Evolución favorable,2026-02-03 15:10:00,2026-02-03 22:41:00
+68,77,Artrosis de rodilla,Paciente refiere mejoría parcial,2026-02-07 13:20:00,2026-02-07 22:49:23
+69,78,Reflujo gastroesofágico,Se recomienda dieta y actividad física,2026-02-09 19:42:00,2026-02-09 22:59:29
+70,79,Asma bronquial leve,Se indica reposo relativo,2026-02-10 08:35:00,2026-02-10 22:01:28
+71,80,Hipertensión arterial esencial,Se indica reposo relativo,2026-02-11 14:49:00,2026-02-11 22:16:10
+72,81,Anemia ferropénica,Se deriva a especialista para evaluación,2026-02-13 09:01:00,2026-02-13 22:57:10
+73,82,Artrosis de rodilla,Se explica signos de alarma,2026-02-14 13:05:00,2026-02-14 22:51:43
+74,83,Asma bronquial leve,Se recomienda dieta y actividad física,2026-02-16 12:02:00,2026-02-16 22:11:41
+75,84,Asma bronquial leve,"Paciente estable, se indica control en 15 días",2026-02-17 18:39:00,2026-02-17 22:38:20
+76,85,Reflujo gastroesofágico,Evolución favorable,2026-02-19 11:12:00,2026-02-19 22:30:31
+77,86,Caries dental,Se explica signos de alarma,2026-02-20 10:35:00,2026-02-20 22:18:25
+78,87,Dislipidemia,Evolución favorable,2026-02-21 08:20:00,2026-02-21 22:51:31
+79,88,Artrosis de rodilla,"Paciente estable, se indica control en 15 días",2026-02-23 14:46:00,2026-02-23 22:02:26
+80,89,Gastritis aguda,Se indica reposo relativo,2026-02-27 12:39:00,2026-02-27 22:17:25
+81,90,Diabetes mellitus tipo 2,,2026-03-03 11:50:00,2026-03-03 22:28:01
+82,91,Síndrome febril,Paciente refiere mejoría parcial,2026-03-03 12:19:00,2026-03-03 22:01:37
+83,94,Gastroenteritis aguda,Se indica reposo relativo,2026-03-04 17:31:00,2026-03-04 22:26:11
+84,95,Conjuntivitis,Se solicitan exámenes de laboratorio,2026-03-05 13:44:00,2026-03-05 22:24:50
+85,97,Migraña,Se deriva a especialista para evaluación,2026-03-09 14:33:00,2026-03-09 22:41:58
+86,98,Rinitis alérgica,,2026-03-12 09:16:00,2026-03-12 22:27:13
+87,99,Bronquitis aguda,Paciente refiere mejoría parcial,2026-03-12 09:49:00,2026-03-12 22:22:33
+88,100,Rinofaringitis viral,Evolución favorable,2026-03-12 10:06:00,2026-03-12 22:10:36
+89,101,Anemia ferropénica,"Paciente estable, se indica control en 15 días",2026-03-14 10:02:00,2026-03-14 22:26:17
+90,103,Otitis media aguda,"Paciente estable, se indica control en 15 días",2026-03-14 12:33:00,2026-03-14 22:13:09
+91,104,Rinofaringitis viral,Evolución favorable,2026-03-17 15:16:00,2026-03-17 22:29:18
+92,105,Síndrome febril,Se indica reposo relativo,2026-03-17 15:00:00,2026-03-17 22:58:50
+93,106,Cefalea tensional,Se solicitan exámenes de laboratorio,2026-03-18 07:20:00,2026-03-18 22:02:37
+94,107,Asma bronquial leve,Evolución favorable,2026-03-18 13:37:00,2026-03-18 22:44:28
+95,108,Reflujo gastroesofágico,Control en 1 mes,2026-03-19 15:44:00,2026-03-19 22:58:22
+96,110,Hipotiroidismo,Paciente refiere mejoría parcial,2026-03-21 16:00:00,2026-03-21 22:16:09
+97,112,Dermatitis alérgica,Se explica signos de alarma,2026-03-23 12:16:00,2026-03-23 22:59:01
+98,114,Lumbalgia mecánica,Se deriva a especialista para evaluación,2026-03-24 09:00:00,2026-03-24 22:20:55
+99,115,Migraña,Se recomienda dieta y actividad física,2026-03-25 14:42:00,2026-03-25 22:53:34
+100,116,Anemia ferropénica,Paciente refiere mejoría parcial,2026-03-25 17:10:00,2026-03-25 22:47:16
+101,117,Dermatitis alérgica,Se indica reposo relativo,2026-03-26 12:44:00,2026-03-26 22:16:47
+102,119,Reflujo gastroesofágico,Se deriva a especialista para evaluación,2026-03-27 18:49:00,2026-03-27 22:38:15
+103,120,Gastritis aguda,Se deriva a especialista para evaluación,2026-03-28 09:07:00,2026-03-28 22:10:39
+104,121,Gastritis aguda,"Paciente estable, se indica control en 15 días",2026-03-28 19:00:00,2026-03-28 22:57:20
+105,122,Artrosis de rodilla,Evolución favorable,2026-03-31 15:12:00,2026-03-31 22:54:42
+106,125,Asma bronquial leve,Control en 1 mes,2026-04-02 15:20:00,2026-04-02 22:41:23
+107,127,Bronquitis aguda,Evolución favorable,2026-04-10 10:00:00,2026-04-10 22:24:40
+108,128,Diabetes mellitus tipo 2,Sin signos de complicación,2026-04-10 11:31:00,2026-04-10 22:27:02
+109,129,Artrosis de rodilla,Evolución favorable,2026-04-10 12:18:00,2026-04-10 22:31:28
+110,130,Control prenatal normal,,2026-04-11 15:08:00,2026-04-11 22:08:08
+111,131,Gastroenteritis aguda,Se solicitan exámenes de laboratorio,2026-04-11 15:37:00,2026-04-11 22:19:25
+112,133,Hipotiroidismo,Evolución favorable,2026-04-14 18:35:00,2026-04-14 22:26:02
+113,134,Asma bronquial leve,Se deriva a especialista para evaluación,2026-04-15 16:31:00,2026-04-15 22:09:34
+114,135,Hipertensión arterial esencial,Se indica reposo relativo,2026-04-16 16:45:00,2026-04-16 22:02:20
+115,137,Sinusitis aguda,Se deriva a especialista para evaluación,2026-04-17 13:32:00,2026-04-17 22:42:12
+116,138,Migraña,"Paciente estable, se indica control en 15 días",2026-04-17 14:19:00,2026-04-17 22:37:00
+117,139,Cefalea tensional,Se indica reposo relativo,2026-04-18 13:41:00,2026-04-18 22:06:08
+118,141,Reflujo gastroesofágico,Evolución favorable,2026-04-20 16:15:00,2026-04-20 22:13:34
+119,143,Sinusitis aguda,Se indica reposo relativo,2026-04-21 16:46:00,2026-04-21 22:23:43
+120,145,Bronquitis aguda,Se solicitan exámenes de laboratorio,2026-04-30 13:17:00,2026-04-30 22:37:28
+121,147,Diabetes mellitus tipo 2,Se deriva a especialista para evaluación,2026-05-04 09:41:00,2026-05-04 22:59:20
+122,148,Contractura muscular,Evolución favorable,2026-05-06 07:09:00,2026-05-06 22:28:07
+123,149,Bronquitis aguda,Se explica signos de alarma,2026-05-06 14:04:00,2026-05-06 22:39:32
+124,150,Bronquitis aguda,Se explica signos de alarma,2026-05-07 08:13:00,2026-05-07 22:27:32
+125,151,Ansiedad leve,,2026-05-08 14:19:00,2026-05-08 22:54:14
+126,152,Gastroenteritis aguda,"Paciente estable, se indica control en 15 días",2026-05-09 16:34:00,2026-05-09 22:37:28
+127,153,Bronquitis aguda,,2026-05-09 19:41:00,2026-05-09 22:10:14
+128,154,Control de niño sano,Paciente refiere mejoría parcial,2026-05-11 18:50:00,2026-05-11 22:33:42
+129,155,Diabetes mellitus tipo 2,Paciente refiere mejoría parcial,2026-05-12 11:44:00,2026-05-12 22:32:57
+130,156,Otitis media aguda,Se recomienda dieta y actividad física,2026-05-14 10:20:00,2026-05-14 22:34:20
+131,157,Diabetes mellitus tipo 2,Se deriva a especialista para evaluación,2026-05-16 12:48:00,2026-05-16 22:44:43
+132,158,Otitis media aguda,Evolución favorable,2026-05-16 15:41:00,2026-05-16 22:10:22
+133,159,Hipertensión arterial esencial,Evolución favorable,2026-05-16 17:17:00,2026-05-16 22:56:24
+134,160,Dislipidemia,Paciente refiere mejoría parcial,2026-05-16 17:46:00,2026-05-16 22:22:18
+135,162,Hipotiroidismo,,2026-05-18 14:50:00,2026-05-18 22:20:52
+136,163,Contractura muscular,,2026-05-19 10:17:00,2026-05-19 22:38:08
+137,164,Asma bronquial leve,Se indica reposo relativo,2026-05-19 12:30:00,2026-05-19 22:32:55
+138,165,Artrosis de rodilla,Evolución favorable,2026-05-19 14:09:00,2026-05-19 22:11:10
+139,166,Sinusitis aguda,,2026-05-19 14:30:00,2026-05-19 22:40:42
+140,167,Rinitis alérgica,"Paciente estable, se indica control en 15 días",2026-05-21 12:39:00,2026-05-21 22:11:13
+141,168,Control de niño sano,Se deriva a especialista para evaluación,2026-05-21 15:05:00,2026-05-21 22:29:33
+142,169,Anemia ferropénica,Se deriva a especialista para evaluación,2026-05-22 08:44:00,2026-05-22 22:10:21
+143,170,Conjuntivitis,Paciente refiere mejoría parcial,2026-05-22 10:17:00,2026-05-22 22:21:37
+144,171,Faringitis aguda,Paciente refiere mejoría parcial,2026-05-25 09:16:00,2026-05-25 22:29:39
+145,172,Obesidad,Se recomienda dieta y actividad física,2026-05-25 11:38:00,2026-05-25 22:30:53
+146,173,Sinusitis aguda,Se indica reposo relativo,2026-05-25 14:15:00,2026-05-25 22:16:25
+147,174,Reflujo gastroesofágico,Control en 1 mes,2026-05-26 09:01:00,2026-05-26 22:17:27
+148,175,Cefalea tensional,"Paciente estable, se indica control en 15 días",2026-05-27 15:12:00,2026-05-27 22:30:01
+149,176,Migraña,Sin signos de complicación,2026-05-28 16:18:00,2026-05-28 22:18:44
+150,177,Faringitis aguda,Sin signos de complicación,2026-05-29 09:30:00,2026-05-29 22:34:46
+151,178,Cefalea tensional,Se indica reposo relativo,2026-06-01 08:04:00,2026-06-01 22:32:47
+152,179,Gastroenteritis aguda,Paciente refiere mejoría parcial,2026-06-02 13:32:00,2026-06-02 22:48:06
+153,180,Cefalea tensional,Se solicitan exámenes de laboratorio,2026-06-03 11:12:00,2026-06-03 22:22:43
+154,181,Bronquitis aguda,Sin signos de complicación,2026-06-03 16:08:00,2026-06-03 22:20:47
+155,182,Diabetes mellitus tipo 2,Se indica reposo relativo,2026-06-04 15:09:00,2026-06-04 22:03:41
+156,183,Anemia ferropénica,Evolución favorable,2026-06-05 10:19:00,2026-06-05 22:40:23
+157,185,Obesidad,Se explica signos de alarma,2026-06-06 08:01:00,2026-06-06 22:17:08
+158,186,Hipotiroidismo,Se solicitan exámenes de laboratorio,2026-06-06 10:50:00,2026-06-06 22:20:41
+159,187,Asma bronquial leve,Se recomienda dieta y actividad física,2026-06-08 09:15:00,2026-06-08 22:02:08
+160,188,Hipertensión arterial esencial,Evolución favorable,2026-06-09 13:18:00,2026-06-09 22:49:48
+161,189,Lumbalgia mecánica,Se recomienda dieta y actividad física,2026-06-12 12:09:00,2026-06-12 22:35:41
+162,190,Rinitis alérgica,Se solicitan exámenes de laboratorio,2026-06-13 09:20:00,2026-06-13 22:03:45
+163,191,Síndrome febril,Se solicitan exámenes de laboratorio,2026-06-13 16:01:00,2026-06-13 22:57:02
+164,193,Otitis media aguda,Se recomienda dieta y actividad física,2026-06-15 09:41:00,2026-06-15 22:56:33
+165,194,Caries dental,Se recomienda dieta y actividad física,2026-06-15 09:36:00,2026-06-15 22:40:22
+166,195,Faringitis aguda,Se deriva a especialista para evaluación,2026-06-15 13:37:00,2026-06-15 22:50:40
+167,196,Obesidad,Se solicitan exámenes de laboratorio,2026-06-19 11:39:00,2026-06-19 22:34:44
+168,198,Gastroenteritis aguda,Evolución favorable,2026-06-19 15:39:00,2026-06-19 22:55:46
+169,199,Síndrome febril,Sin signos de complicación,2026-06-20 09:39:00,2026-06-20 22:46:42
+170,200,Síndrome febril,"Paciente estable, se indica control en 15 días",2026-06-20 10:09:00,2026-06-20 22:00:18
+171,202,Anemia ferropénica,Se indica reposo relativo,2026-06-24 10:19:00,2026-06-24 22:15:08
+172,203,Control de niño sano,,2026-06-25 07:50:00,2026-06-25 22:38:18
+173,204,Otitis media aguda,Sin signos de complicación,2026-06-26 12:08:00,2026-06-26 22:32:49
+174,205,Contractura muscular,Se deriva a especialista para evaluación,2026-06-26 18:06:00,2026-06-26 22:32:40
+175,206,Cefalea tensional,Se solicitan exámenes de laboratorio,2026-06-27 08:43:00,2026-06-27 22:13:58
+176,207,Infección urinaria baja,Evolución favorable,2026-06-27 16:31:00,2026-06-27 22:28:04
+177,208,Otitis media aguda,Se deriva a especialista para evaluación,2026-06-30 10:14:00,2026-06-30 22:19:03
+178,209,Sinusitis aguda,"Paciente estable, se indica control en 15 días",2026-07-01 11:11:00,2026-07-01 22:44:11
+179,210,Cefalea tensional,Sin signos de complicación,2026-07-02 17:47:00,2026-07-02 22:24:06
+180,211,Conjuntivitis,"Paciente estable, se indica control en 15 días",2026-07-03 08:04:00,2026-07-03 22:04:03
+181,213,Gastritis aguda,Sin signos de complicación,2026-07-03 15:34:00,2026-07-03 22:16:20
+182,216,Conjuntivitis,Se explica signos de alarma,2026-07-04 12:43:00,2026-07-04 22:51:33
+183,217,Bronquitis aguda,"Paciente estable, se indica control en 15 días",2026-07-04 18:44:00,2026-07-04 22:04:54
+184,218,Sinusitis aguda,Se explica signos de alarma,2026-07-07 15:14:00,2026-07-07 22:21:08
+185,219,Lesión de tejidos blandos,Se deriva a especialista para evaluación,2026-07-10 10:04:00,2026-07-10 22:29:20
+186,220,Lesión de tejidos blandos,Se indica reposo relativo,2026-07-15 14:14:00,2026-07-15 22:15:01
+187,221,Diabetes mellitus tipo 2,Se explica signos de alarma,2026-07-16 14:20:00,2026-07-16 22:00:01
+188,223,Sinusitis aguda,Paciente refiere mejoría parcial,2026-07-18 15:06:00,2026-07-18 22:41:05
+189,224,Síndrome febril,,2026-07-21 12:32:00,2026-07-21 22:40:35
+190,226,Diabetes mellitus tipo 2,Se recomienda dieta y actividad física,2026-07-21 14:14:00,2026-07-21 22:30:53
+191,227,Infección urinaria baja,Se recomienda dieta y actividad física,2026-07-23 13:08:00,2026-07-23 22:50:41
+192,228,Reflujo gastroesofágico,"Paciente estable, se indica control en 15 días",2026-07-24 15:18:00,2026-07-24 22:45:13
+193,229,Faringitis aguda,Se deriva a especialista para evaluación,2026-07-24 15:04:00,2026-07-24 22:38:12
+194,230,Reflujo gastroesofágico,"Paciente estable, se indica control en 15 días",2026-07-25 09:35:00,2026-07-25 22:07:14
+195,231,Gastritis aguda,Se solicitan exámenes de laboratorio,2026-07-27 09:39:00,2026-07-27 22:25:29
+196,232,Síndrome febril,"Paciente estable, se indica control en 15 días",2026-07-27 10:13:00,2026-07-27 22:40:33
+197,233,Sinusitis aguda,Se deriva a especialista para evaluación,2026-07-28 09:06:00,2026-07-28 22:21:15
+198,234,Reflujo gastroesofágico,Se explica signos de alarma,2026-07-30 12:32:00,2026-07-30 22:37:10
+199,235,Contractura muscular,Se solicitan exámenes de laboratorio,2026-07-30 15:11:00,2026-07-30 22:22:58
+200,236,Gastroenteritis aguda,"Paciente estable, se indica control en 15 días",2026-07-31 11:41:00,2026-07-31 22:26:51
+201,237,Conjuntivitis,"Paciente estable, se indica control en 15 días",2026-07-31 13:07:00,2026-07-31 22:01:41
+202,238,Hipotiroidismo,Sin signos de complicación,2026-07-31 18:01:00,2026-07-31 22:53:09
+203,239,Reflujo gastroesofágico,Control en 1 mes,2026-08-03 10:32:00,2026-08-03 22:52:53
+204,240,Conjuntivitis,Evolución favorable,2026-08-03 12:39:00,2026-08-03 22:12:17
+205,241,Rinitis alérgica,Se solicitan exámenes de laboratorio,2026-08-03 13:32:00,2026-08-03 22:29:10
+206,243,Migraña,Sin signos de complicación,2026-08-05 17:06:00,2026-08-05 22:10:16
+207,244,Infección urinaria baja,Evolución favorable,2026-08-06 12:13:00,2026-08-06 22:15:30
+208,245,Asma bronquial leve,Control en 1 mes,2026-08-06 12:46:00,2026-08-06 22:14:43
+209,246,Ansiedad leve,Control en 1 mes,2026-08-06 16:07:00,2026-08-06 22:08:57
+210,247,Síndrome febril,Se solicitan exámenes de laboratorio,2026-08-06 18:01:00,2026-08-06 22:16:52
+211,249,Lesión de tejidos blandos,Evolución favorable,2026-08-08 15:33:00,2026-08-08 22:00:32
+212,250,Cefalea tensional,,2026-08-08 16:18:00,2026-08-08 22:45:42
+213,251,Otitis media aguda,Se indica reposo relativo,2026-08-10 13:20:00,2026-08-10 22:18:31
+214,253,Dislipidemia,,2026-08-12 07:46:00,2026-08-12 22:52:17
+215,254,Artrosis de rodilla,"Paciente estable, se indica control en 15 días",2026-08-13 11:17:00,2026-08-13 22:58:32
+216,255,Síndrome febril,Sin signos de complicación,2026-08-13 12:12:00,2026-08-13 22:07:09
+217,256,Hipotiroidismo,Se explica signos de alarma,2026-08-13 15:12:00,2026-08-13 22:55:18
+218,257,Bronquitis aguda,Control en 1 mes,2026-08-15 10:44:00,2026-08-15 22:58:58
+219,258,Hipotiroidismo,Se recomienda dieta y actividad física,2026-08-15 11:50:00,2026-08-15 22:22:10
+220,259,Sinusitis aguda,Se explica signos de alarma,2026-08-15 14:34:00,2026-08-15 22:17:58
+221,260,Artrosis de rodilla,Se explica signos de alarma,2026-08-15 17:19:00,2026-08-15 22:16:32
+222,261,Migraña,,2026-08-17 11:18:00,2026-08-17 22:15:40
+223,262,Contractura muscular,Se recomienda dieta y actividad física,2026-08-18 15:07:00,2026-08-18 22:51:19
+224,263,Control prenatal normal,Paciente refiere mejoría parcial,2026-08-18 15:09:00,2026-08-18 22:58:58
+225,264,Sinusitis aguda,Paciente refiere mejoría parcial,2026-08-18 15:39:00,2026-08-18 22:13:20
+226,265,Rinitis alérgica,Sin signos de complicación,2026-08-19 10:07:00,2026-08-19 22:09:48
+227,266,Contractura muscular,Se explica signos de alarma,2026-08-20 10:13:00,2026-08-20 22:59:18
+228,267,Conjuntivitis,,2026-08-20 10:41:00,2026-08-20 22:13:46
+229,268,Rinitis alérgica,Sin signos de complicación,2026-08-24 10:39:00,2026-08-24 22:32:00
+230,269,Control de niño sano,Paciente refiere mejoría parcial,2026-08-25 09:35:00,2026-08-25 22:32:28
+231,270,Control de niño sano,Se explica signos de alarma,2026-08-26 08:00:00,2026-08-26 22:59:53
+232,271,Rinitis alérgica,Control en 1 mes,2026-08-28 12:09:00,2026-08-28 22:15:14
+233,273,Hipotiroidismo,Sin signos de complicación,2026-08-29 11:33:00,2026-08-29 22:08:35
+234,274,Ansiedad leve,Control en 1 mes,2026-08-31 15:37:00,2026-08-31 22:16:54
+235,275,Anemia ferropénica,,2026-08-31 19:38:00,2026-08-31 22:13:44
+236,276,Hipotiroidismo,Se indica reposo relativo,2026-09-01 18:35:00,2026-09-01 22:48:10
+237,277,Caries dental,Se indica reposo relativo,2026-09-03 10:34:00,2026-09-03 22:00:02
+238,278,Faringitis aguda,Evolución favorable,2026-09-03 11:43:00,2026-09-03 22:17:37
+239,280,Control de niño sano,Se explica signos de alarma,2026-09-03 16:13:00,2026-09-03 22:20:23
+240,281,Dermatitis alérgica,,2026-09-05 08:08:00,2026-09-05 22:33:03
+241,282,Síndrome febril,Se recomienda dieta y actividad física,2026-09-05 16:17:00,2026-09-05 22:52:31
+242,283,Sinusitis aguda,Se deriva a especialista para evaluación,2026-09-08 13:35:00,2026-09-08 22:01:48
+243,284,Diabetes mellitus tipo 2,Se recomienda dieta y actividad física,2026-09-08 14:38:00,2026-09-08 22:04:01
+244,285,Otitis media aguda,Evolución favorable,2026-09-10 07:50:00,2026-09-10 22:18:49
+245,286,Gastroenteritis aguda,Se recomienda dieta y actividad física,2026-09-10 09:10:00,2026-09-10 22:46:16
+246,288,Bronquitis aguda,Sin signos de complicación,2026-09-11 08:42:00,2026-09-11 22:56:02
+247,289,Artrosis de rodilla,Se explica signos de alarma,2026-09-11 14:40:00,2026-09-11 22:42:41
+248,290,Gastritis aguda,Control en 1 mes,2026-09-11 19:05:00,2026-09-11 22:42:59
+249,291,Diabetes mellitus tipo 2,Se recomienda dieta y actividad física,2026-09-12 08:19:00,2026-09-12 22:03:40
+250,292,Síndrome febril,"Paciente estable, se indica control en 15 días",2026-09-12 10:02:00,2026-09-12 22:32:39
+251,293,Infección urinaria baja,Se deriva a especialista para evaluación,2026-09-14 11:33:00,2026-09-14 22:51:16
+252,296,Rinitis alérgica,,2026-09-19 08:47:00,2026-09-19 22:49:50
+253,297,Síndrome febril,Sin signos de complicación,2026-09-19 13:00:00,2026-09-19 22:15:17
+254,298,Cefalea tensional,,2026-09-21 13:17:00,2026-09-21 22:20:43
+255,299,Reflujo gastroesofágico,Se solicitan exámenes de laboratorio,2026-09-22 12:46:00,2026-09-22 22:42:19
+256,300,Síndrome febril,Control en 1 mes,2026-09-23 15:42:00,2026-09-23 22:48:47
+257,301,Contractura muscular,Se explica signos de alarma,2026-09-24 13:11:00,2026-09-24 22:57:22
+258,302,Dislipidemia,Sin signos de complicación,2026-09-24 14:09:00,2026-09-24 22:56:16
+259,303,Infección urinaria baja,Se solicitan exámenes de laboratorio,2026-09-25 14:02:00,2026-09-25 22:18:34
+260,304,Dislipidemia,Sin signos de complicación,2026-09-26 08:37:00,2026-09-26 22:34:11
+261,305,Contractura muscular,Evolución favorable,2026-09-28 13:39:00,2026-09-28 22:03:25
+262,306,Rinofaringitis viral,Sin signos de complicación,2026-09-29 09:42:00,2026-09-29 22:42:19
+263,307,Lumbalgia mecánica,,2026-10-02 12:42:00,2026-10-02 22:56:41
+264,308,Bronquitis aguda,Se solicitan exámenes de laboratorio,2026-10-03 13:10:00,2026-10-03 22:02:38
+265,309,Caries dental,"Paciente estable, se indica control en 15 días",2026-10-03 14:14:00,2026-10-03 22:07:12
+266,310,Lumbalgia mecánica,Se recomienda dieta y actividad física,2026-10-05 10:38:00,2026-10-05 22:27:11
+267,312,Dislipidemia,Sin signos de complicación,2026-10-06 14:19:00,2026-10-06 22:03:19
+268,313,Lesión de tejidos blandos,"Paciente estable, se indica control en 15 días",2026-10-07 17:38:00,2026-10-07 22:56:53
+269,314,Gastritis aguda,,2026-10-08 07:18:00,2026-10-08 22:39:56
+270,315,Control prenatal normal,Se indica reposo relativo,2026-10-08 09:36:00,2026-10-08 22:09:01
+271,316,Control prenatal normal,Se solicitan exámenes de laboratorio,2026-10-10 15:06:00,2026-10-10 22:57:24
+272,317,Obesidad,,2026-10-12 08:44:00,2026-10-12 22:05:50
+273,318,Obesidad,Se deriva a especialista para evaluación,2026-10-12 13:41:00,2026-10-12 22:20:06
+274,319,Hipotiroidismo,Evolución favorable,2026-10-15 10:01:00,2026-10-15 22:00:24
+275,320,Dislipidemia,Evolución favorable,2026-10-15 10:04:00,2026-10-15 22:54:41
+276,322,Infección urinaria baja,Control en 1 mes,2026-10-15 17:33:00,2026-10-15 22:22:45
+277,323,Anemia ferropénica,Se recomienda dieta y actividad física,2026-10-16 12:04:00,2026-10-16 22:08:14
+278,325,Síndrome febril,Sin signos de complicación,2026-10-19 14:03:00,2026-10-19 22:34:42
+279,326,Conjuntivitis,Se solicitan exámenes de laboratorio,2026-10-22 11:06:00,2026-10-22 22:14:05
+280,327,Lumbalgia mecánica,Se recomienda dieta y actividad física,2026-10-22 13:11:00,2026-10-22 22:43:54
+281,330,Lesión de tejidos blandos,Se solicitan exámenes de laboratorio,2026-10-27 10:08:00,2026-10-27 22:02:15
+282,331,Síndrome febril,Evolución favorable,2026-10-30 12:16:00,2026-10-30 22:56:16
+283,332,Hipertensión arterial esencial,Paciente refiere mejoría parcial,2026-10-31 08:32:00,2026-10-31 22:19:16
+284,333,Lesión de tejidos blandos,Control en 1 mes,2026-10-31 11:00:00,2026-10-31 22:26:37
+285,334,Caries dental,Paciente refiere mejoría parcial,2026-11-03 19:13:00,2026-11-03 22:13:07
+286,337,Hipotiroidismo,Evolución favorable,2026-11-06 10:11:00,2026-11-06 22:27:25
+287,338,Control prenatal normal,Sin signos de complicación,2026-11-06 10:43:00,2026-11-06 22:26:03
+288,339,Anemia ferropénica,Se recomienda dieta y actividad física,2026-11-07 15:42:00,2026-11-07 22:03:42
+289,340,Faringitis aguda,Evolución favorable,2026-11-07 16:13:00,2026-11-07 22:53:18
+290,341,Reflujo gastroesofágico,Paciente refiere mejoría parcial,2026-11-07 16:40:00,2026-11-07 22:45:26
+291,342,Migraña,Se deriva a especialista para evaluación,2026-11-09 15:39:00,2026-11-09 22:46:51
+292,343,Bronquitis aguda,Control en 1 mes,2026-11-10 18:44:00,2026-11-10 22:54:12
+293,345,Otitis media aguda,Se deriva a especialista para evaluación,2026-11-11 13:15:00,2026-11-11 22:36:36
