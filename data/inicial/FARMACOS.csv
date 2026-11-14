@@ -1,0 +1,113 @@
+﻿id_farmaco,nombre_farmaco,presentacion,precio_unitario,stock_minimo,created_at
+1,Paracetamol,Tableta 500 mg,0.34,120,2025-11-14 06:00:00
+2,Paracetamol,Tableta 1 g,0.48,30,2025-11-14 06:00:00
+3,Paracetamol,Jarabe 120 mg/5 ml,0.83,50,2025-11-14 06:00:00
+4,Ibuprofeno,Tableta 400 mg,0.69,40,2025-11-14 06:00:00
+5,Ibuprofeno,Tableta 600 mg,0.62,80,2025-11-14 06:00:00
+6,Ibuprofeno,Suspensión 100 mg/5 ml,1.38,140,2025-11-14 06:00:00
+7,Naproxeno,Tableta 275 mg,1.05,190,2025-11-14 06:00:00
+8,Naproxeno,Tableta 550 mg,1.30,50,2025-11-14 06:00:00
+9,Diclofenaco,Tableta 50 mg,0.70,40,2025-11-14 06:00:00
+10,Diclofenaco,Ampolla 75 mg/3 ml,1.62,100,2025-11-14 06:00:00
+11,Diclofenaco,Gel 1%,1.26,140,2025-11-14 06:00:00
+12,Ketorolaco,Tableta 10 mg,1.29,140,2025-11-14 06:00:00
+13,Ketorolaco,Ampolla 30 mg/ml,3.26,200,2025-11-14 06:00:00
+14,Amoxicilina,Cápsula 500 mg,0.99,170,2025-11-14 06:00:00
+15,Amoxicilina,Suspensión 250 mg/5 ml,1.44,190,2025-11-14 06:00:00
+16,Amoxicilina,Tableta 1 g,0.91,50,2025-11-14 06:00:00
+17,Amoxicilina + Ác. Clavulánico,Tableta 875/125 mg,5.13,70,2025-11-14 06:00:00
+18,Amoxicilina + Ác. Clavulánico,Suspensión 400/57 mg/5 ml,5.79,80,2025-11-14 06:00:00
+19,Azitromicina,Tableta 500 mg,4.07,30,2025-11-14 06:00:00
+20,Azitromicina,Suspensión 200 mg/5 ml,9.05,130,2025-11-14 06:00:00
+21,Claritromicina,Tableta 500 mg,3.84,110,2025-11-14 06:00:00
+22,Ciprofloxacino,Tableta 500 mg,1.53,150,2025-11-14 06:00:00
+23,Ciprofloxacino,Tableta 750 mg,1.40,110,2025-11-14 06:00:00
+24,Levofloxacino,Tableta 500 mg,3.26,130,2025-11-14 06:00:00
+25,Levofloxacino,Tableta 750 mg,3.74,120,2025-11-14 06:00:00
+26,Cefalexina,Cápsula 500 mg,1.13,150,2025-11-14 06:00:00
+27,Cefalexina,Suspensión 250 mg/5 ml,1.53,90,2025-11-14 06:00:00
+28,Ceftriaxona,Ampolla 1 g,16.66,150,2025-11-14 06:00:00
+29,Metronidazol,Tableta 500 mg,0.55,100,2025-11-14 06:00:00
+30,Metronidazol,Suspensión 125 mg/5 ml,0.97,60,2025-11-14 06:00:00
+31,Clindamicina,Cápsula 300 mg,3.53,60,2025-11-14 06:00:00
+32,Clindamicina,Ampolla 600 mg/4 ml,5.76,90,2025-11-14 06:00:00
+33,Doxiciclina,Cápsula 100 mg,0.87,140,2025-11-14 06:00:00
+34,Cotrimoxazol,Tableta 800/160 mg,0.70,80,2025-11-14 06:00:00
+35,Cotrimoxazol,Suspensión 200/40 mg/5 ml,1.63,40,2025-11-14 06:00:00
+36,Fluconazol,Cápsula 150 mg,3.38,130,2025-11-14 06:00:00
+37,Omeprazol,Cápsula 20 mg,0.56,170,2025-11-14 06:00:00
+38,Omeprazol,Cápsula 40 mg,0.38,90,2025-11-14 06:00:00
+39,Pantoprazol,Tableta 40 mg,1.13,50,2025-11-14 06:00:00
+40,Esomeprazol,Tableta 40 mg,3.55,200,2025-11-14 06:00:00
+41,Loperamida,Cápsula 2 mg,0.83,50,2025-11-14 06:00:00
+42,Domperidona,Tableta 10 mg,0.79,130,2025-11-14 06:00:00
+43,Domperidona,Suspensión 1 mg/ml,1.68,90,2025-11-14 06:00:00
+44,Metoclopramida,Tableta 10 mg,0.57,40,2025-11-14 06:00:00
+45,Metoclopramida,Ampolla 10 mg/2 ml,1.15,140,2025-11-14 06:00:00
+46,Hioscina,Tableta 10 mg,1.03,80,2025-11-14 06:00:00
+47,Hioscina,Ampolla 20 mg/ml,2.36,40,2025-11-14 06:00:00
+48,Loratadina,Tableta 10 mg,0.30,60,2025-11-14 06:00:00
+49,Loratadina,Jarabe 5 mg/5 ml,0.60,120,2025-11-14 06:00:00
+50,Cetirizina,Tableta 10 mg,0.62,100,2025-11-14 06:00:00
+51,Cetirizina,Gotas 10 mg/ml,0.70,160,2025-11-14 06:00:00
+52,Desloratadina,Tableta 5 mg,1.94,110,2025-11-14 06:00:00
+53,Clorfenamina,Tableta 4 mg,0.23,90,2025-11-14 06:00:00
+54,Salbutamol,Inhalador 100 mcg,33.98,70,2025-11-14 06:00:00
+55,Salbutamol,Jarabe 2 mg/5 ml,27.31,30,2025-11-14 06:00:00
+56,Budesonida,Inhalador 200 mcg,42.81,50,2025-11-14 06:00:00
+57,Budesonida,Nebulizar 0.5 mg/2 ml,54.82,50,2025-11-14 06:00:00
+58,Montelukast,Tableta 10 mg,4.21,30,2025-11-14 06:00:00
+59,Montelukast,Masticable 4 mg,5.26,80,2025-11-14 06:00:00
+60,Ambroxol,Jarabe 15 mg/5 ml,1.35,160,2025-11-14 06:00:00
+61,Ambroxol,Tableta 30 mg,0.69,50,2025-11-14 06:00:00
+62,Bromhexina,Jarabe 4 mg/5 ml,22.98,190,2025-11-14 06:00:00
+63,Dexametasona,Tableta 4 mg,0.78,40,2025-11-14 06:00:00
+64,Dexametasona,Ampolla 4 mg/ml,1.46,80,2025-11-14 06:00:00
+65,Prednisona,Tableta 5 mg,0.47,70,2025-11-14 06:00:00
+66,Prednisona,Tableta 20 mg,0.37,150,2025-11-14 06:00:00
+67,Hidrocortisona,Ampolla 100 mg,11.14,200,2025-11-14 06:00:00
+68,Hidrocortisona,Crema 1%,12.60,180,2025-11-14 06:00:00
+69,Losartán,Tableta 50 mg,0.62,60,2025-11-14 06:00:00
+70,Losartán,Tableta 100 mg,0.52,40,2025-11-14 06:00:00
+71,Enalapril,Tableta 10 mg,0.34,160,2025-11-14 06:00:00
+72,Enalapril,Tableta 20 mg,0.38,80,2025-11-14 06:00:00
+73,Amlodipino,Tableta 5 mg,0.30,50,2025-11-14 06:00:00
+74,Amlodipino,Tableta 10 mg,0.35,140,2025-11-14 06:00:00
+75,Atenolol,Tableta 50 mg,0.38,150,2025-11-14 06:00:00
+76,Atenolol,Tableta 100 mg,0.28,70,2025-11-14 06:00:00
+77,Propranolol,Tableta 40 mg,0.43,180,2025-11-14 06:00:00
+78,Hidroclorotiazida,Tableta 25 mg,0.24,60,2025-11-14 06:00:00
+79,Furosemida,Tableta 40 mg,0.57,200,2025-11-14 06:00:00
+80,Furosemida,Ampolla 20 mg/2 ml,0.77,100,2025-11-14 06:00:00
+81,Atorvastatina,Tableta 20 mg,0.74,180,2025-11-14 06:00:00
+82,Atorvastatina,Tableta 40 mg,1.23,190,2025-11-14 06:00:00
+83,Simvastatina,Tableta 20 mg,0.94,40,2025-11-14 06:00:00
+84,Simvastatina,Tableta 40 mg,0.58,40,2025-11-14 06:00:00
+85,Metformina,Tableta 500 mg,0.46,190,2025-11-14 06:00:00
+86,Metformina,Tableta 850 mg,0.41,160,2025-11-14 06:00:00
+87,Glibenclamida,Tableta 5 mg,0.26,60,2025-11-14 06:00:00
+88,Insulina NPH,Frasco 100 UI/ml,113.05,80,2025-11-14 06:00:00
+89,Levotiroxina,Tableta 50 mcg,0.75,150,2025-11-14 06:00:00
+90,Levotiroxina,Tableta 100 mcg,0.67,30,2025-11-14 06:00:00
+91,Ácido acetilsalicílico,Tableta 100 mg,0.24,30,2025-11-14 06:00:00
+92,Ácido acetilsalicílico,Tableta 500 mg,0.18,40,2025-11-14 06:00:00
+93,Clopidogrel,Tableta 75 mg,1.85,40,2025-11-14 06:00:00
+94,Sertralina,Tableta 50 mg,1.13,120,2025-11-14 06:00:00
+95,Sertralina,Tableta 100 mg,1.34,200,2025-11-14 06:00:00
+96,Fluoxetina,Cápsula 20 mg,0.79,190,2025-11-14 06:00:00
+97,Tramadol,Cápsula 50 mg,1.23,90,2025-11-14 06:00:00
+98,Tramadol,Ampolla 100 mg/2 ml,1.90,180,2025-11-14 06:00:00
+99,Gabapentina,Cápsula 300 mg,1.58,160,2025-11-14 06:00:00
+100,Gabapentina,Cápsula 400 mg,1.87,30,2025-11-14 06:00:00
+101,Complejo B,Tableta,0.47,20,2025-11-14 06:00:00
+102,Complejo B,Ampolla,1.45,100,2025-11-14 06:00:00
+103,Vitamina C,Tableta 500 mg,0.49,200,2025-11-14 06:00:00
+104,Vitamina C,Efervescente 1 g,0.76,110,2025-11-14 06:00:00
+105,Sulfato ferroso,Tableta 300 mg,0.33,200,2025-11-14 06:00:00
+106,Sulfato ferroso,Jarabe 125 mg/ml,0.44,70,2025-11-14 06:00:00
+107,Ácido fólico,Tableta 5 mg,0.20,200,2025-11-14 06:00:00
+108,Calcio + Vitamina D,Tableta 600 mg/400 UI,0.90,200,2025-11-14 06:00:00
+109,Ivermectina,Tableta 6 mg,1.82,50,2025-11-14 06:00:00
+110,Albendazol,Tableta 400 mg,1.69,160,2025-11-14 06:00:00
+111,Albendazol,Suspensión 100 mg/5 ml,3.60,90,2025-11-14 06:00:00
+112,Suero de rehidratación oral,Sobre 27.9 g,3.47,130,2025-11-14 06:00:00

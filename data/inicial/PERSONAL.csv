@@ -1,0 +1,101 @@
+﻿id_personal,id_cargo,dni,nombres,apellidos,fecha_nacimiento,telefono,correo,nro_colegiatura,created_at
+1,1,12689630,Miguel,Benavides Ramos,1965-08-25,980976850,miguel.benavides38@clinicademo.pe,CMP-82299,2025-11-14 06:00:00
+2,3,18313475,Diana,García Cruz,1991-01-28,984211961,diana.garcia86@clinicademo.pe,,2025-11-14 06:00:00
+3,1,27950501,Claudia,Gutiérrez Quispe,1995-03-27,927515104,claudia.gutierrez69@clinicademo.pe,CMP-28493,2025-11-14 06:00:00
+4,1,13310540,Alberto César,Salazar Poma,1974-07-02,987631430,alberto.salazar84@clinicademo.pe,CMP-76840,2025-11-14 06:00:00
+5,2,74301416,Ana Valeria,Chávez Benavides,1969-01-30,918751169,ana.chavez11@clinicademo.pe,CEP-23023,2025-11-14 06:00:00
+6,1,39867015,Carlos Raúl,Poma Fernández,1969-07-15,904813632,carlos.poma71@clinicademo.pe,CMP-93449,2025-11-14 06:00:00
+7,5,63495068,Lucía Fiorella,Torres Campos,1987-05-28,988146232,lucia.torres25@clinicademo.pe,COP-58972,2025-11-14 06:00:00
+8,1,31767227,Luis Diego,Mamani Fernández,1990-09-20,939970772,luis.mamani53@clinicademo.pe,CMP-86115,2025-11-14 06:00:00
+9,10,53938401,Víctor Víctor,Mendoza Lazo,1998-03-09,929526512,victor.mendoza41@clinicademo.pe,CTMP-76576,2025-11-14 06:00:00
+10,1,40427076,Marco Jorge,Torres Flores,1981-11-20,946123777,marco.torres2@clinicademo.pe,CMP-70889,2025-11-14 06:00:00
+11,1,55028433,Eduardo Fernando,Zegarra Torres,1982-04-21,927871665,eduardo.zegarra47@clinicademo.pe,CMP-47222,2025-11-14 06:00:00
+12,7,17149539,Jimena,Torres Campos,1965-08-08,914730727,jimena.torres57@clinicademo.pe,,2025-11-14 06:00:00
+13,3,29088137,Karla,Arce Cáceres,1995-10-14,943405792,karla.arce78@clinicademo.pe,,2025-11-14 06:00:00
+14,8,40506483,Miguel,Torres Flores,1965-01-30,909480466,miguel.torres18@clinicademo.pe,,2025-11-14 06:00:00
+15,2,45415191,Gabriela,García Soto,1975-01-23,939395187,gabriela.garcia30@clinicademo.pe,CEP-62716,2025-11-14 06:00:00
+16,2,50161179,Ana,Díaz Díaz,1962-12-18,905002548,ana.diaz69@clinicademo.pe,CEP-35795,2025-11-14 06:00:00
+17,2,23343291,Teresa,Benavides Delgado,1976-11-10,984853011,teresa.benavides64@clinicademo.pe,CEP-26369,2025-11-14 06:00:00
+18,1,27093752,Yolanda,Palomino Rodríguez,1997-04-11,917955220,yolanda.palomino39@clinicademo.pe,CMP-91608,2025-11-14 06:00:00
+19,2,78189732,Patricia,Ríos Gutiérrez,1965-07-12,942370754,patricia.rios86@clinicademo.pe,CEP-64518,2025-11-14 06:00:00
+20,6,64166953,Carmen,Ríos Ramos,1984-07-26,976173327,carmen.rios64@clinicademo.pe,CQFP-90256,2025-11-14 06:00:00
+21,2,78237549,Teresa,Cárdenas Arce,1978-09-04,921655690,teresa.cardenas15@clinicademo.pe,CEP-64596,2025-11-14 06:00:00
+22,1,61045080,María Karla,Mendoza Medina,1999-04-26,987524377,maria.mendoza68@clinicademo.pe,CMP-30885,2025-11-14 06:00:00
+23,7,77366164,Verónica,Ríos Cárdenas,1992-07-01,997751260,veronica.rios47@clinicademo.pe,,2025-11-14 06:00:00
+24,1,29981842,Álvaro,Lazo Vásquez,1979-05-16,900941521,alvaro.lazo97@clinicademo.pe,CMP-58724,2025-11-14 06:00:00
+25,1,20327485,Sofía,Lazo Mendoza,1968-07-01,912397126,sofia.lazo48@clinicademo.pe,CMP-42485,2025-11-14 06:00:00
+26,2,17758286,Ana,Fernández Mamani,1976-10-11,940840006,ana.fernandez88@clinicademo.pe,CEP-26190,2025-11-14 06:00:00
+27,1,56809837,Rosa,Castillo Palomino,1987-04-19,915282977,rosa.castillo98@clinicademo.pe,CMP-20002,2025-11-14 06:00:00
+28,1,19061758,Andrés,Torres Chávez,1980-06-08,993329089,andres.torres31@clinicademo.pe,CMP-29881,2025-11-14 06:00:00
+29,8,53254422,Iván Andrés,Salazar Rojas,1996-06-05,987483949,ivan.salazar57@clinicademo.pe,,2025-11-14 06:00:00
+30,1,63338810,Miguel José,Gutiérrez Fernández,1982-07-16,963479754,miguel.gutierrez54@clinicademo.pe,CMP-48804,2025-11-14 06:00:00
+31,3,16520200,Alberto,Condori Rodríguez,1981-06-07,909008829,alberto.condori34@clinicademo.pe,,2025-11-14 06:00:00
+32,4,37530602,Diana Claudia,Benavides García,1972-10-22,943457586,diana.benavides81@clinicademo.pe,COP-67751,2025-11-14 06:00:00
+33,2,74451462,Andrea,Sánchez Lazo,2001-04-15,919243341,andrea.sanchez14@clinicademo.pe,CEP-94621,2025-11-14 06:00:00
+34,1,48428024,Jorge Fernando,Paredes Soto,1988-07-25,916654176,jorge.paredes62@clinicademo.pe,CMP-35477,2025-11-14 06:00:00
+35,2,36143768,Sofía,Fernández Torres,1987-03-25,911960387,sofia.fernandez1@clinicademo.pe,CEP-65727,2025-11-14 06:00:00
+36,10,66195926,Patricia,Campos Cáceres,1986-10-08,940072087,patricia.campos64@clinicademo.pe,CTMP-82151,2025-11-14 06:00:00
+37,1,41263646,Héctor Andrés,Gutiérrez Condori,1984-07-27,939134593,hector.gutierrez16@clinicademo.pe,CMP-34237,2025-11-14 06:00:00
+38,1,63714293,Karla,Soto Cruz,1963-10-03,994824585,karla.soto64@clinicademo.pe,CMP-30602,2025-11-14 06:00:00
+39,9,57457319,Daniela,Rojas Salazar,1991-05-07,927472535,daniela.rojas17@clinicademo.pe,,2025-11-14 06:00:00
+40,1,67143566,José,Mendoza Ríos,1979-10-31,907825965,jose.mendoza55@clinicademo.pe,CMP-73026,2025-11-14 06:00:00
+41,3,66320394,Natalia,Benavides Quispe,1991-12-06,973619426,natalia.benavides20@clinicademo.pe,,2025-11-14 06:00:00
+42,1,38407865,Diana,Campos Campos,1986-05-19,950083278,diana.campos90@clinicademo.pe,CMP-78059,2025-11-14 06:00:00
+43,9,36628508,María,Valdivia Ríos,1987-08-07,927008551,maria.valdivia4@clinicademo.pe,,2025-11-14 06:00:00
+44,2,14433173,Isabel,Palomino Castillo,1997-11-19,920879091,isabel.palomino64@clinicademo.pe,CEP-75186,2025-11-14 06:00:00
+45,2,22617601,Karla,Cárdenas Herrera,1999-12-02,956698768,karla.cardenas78@clinicademo.pe,CEP-19000,2025-11-14 06:00:00
+46,1,30464498,Raúl,Zegarra Valdivia,1972-01-08,924141883,raul.zegarra77@clinicademo.pe,CMP-99256,2025-11-14 06:00:00
+47,1,56758470,Óscar,Ríos Vargas,1972-10-19,988913374,oscar.rios37@clinicademo.pe,CMP-44783,2025-11-14 06:00:00
+48,6,54331995,Verónica,Poma Paredes,1982-01-05,934514697,veronica.poma39@clinicademo.pe,CQFP-83109,2025-11-14 06:00:00
+49,7,53113931,Andrés,Ríos Cáceres,1982-11-13,975308249,andres.rios35@clinicademo.pe,,2025-11-14 06:00:00
+50,1,51499670,Lucía,García Fernández,1967-05-01,938996866,lucia.garcia76@clinicademo.pe,CMP-71049,2025-11-14 06:00:00
+51,7,64614713,Iván,Aguilar Condori,1966-11-24,948114867,ivan.aguilar29@clinicademo.pe,,2025-11-14 06:00:00
+52,9,72382070,Luis,Mendoza Condori,1990-10-09,926769711,luis.mendoza66@clinicademo.pe,,2025-11-14 06:00:00
+53,4,15332097,Yolanda,Rojas Condori,1968-08-19,903605283,yolanda.rojas29@clinicademo.pe,COP-12419,2025-11-14 06:00:00
+54,2,79338639,Elena,Lazo Ramos,1989-01-06,942482334,elena.lazo93@clinicademo.pe,CEP-20258,2025-11-14 06:00:00
+55,1,48772217,Gabriela,Cáceres Poma,1993-12-31,949201158,gabriela.caceres1@clinicademo.pe,CMP-67382,2025-11-14 06:00:00
+56,6,31663954,Claudia,Aguilar Palomino,1988-08-13,977903035,claudia.aguilar73@clinicademo.pe,CQFP-19412,2025-11-14 06:00:00
+57,3,64597705,Carmen Diana,Mamani Benavides,1999-10-19,971895424,carmen.mamani51@clinicademo.pe,,2025-11-14 06:00:00
+58,4,61042706,Daniela,Ponce Díaz,1975-09-19,903010392,daniela.ponce48@clinicademo.pe,COP-83422,2025-11-14 06:00:00
+59,5,33418921,Milagros,Rodríguez Arce,1963-11-15,900678927,milagros.rodriguez5@clinicademo.pe,COP-56514,2025-11-14 06:00:00
+60,10,14477322,César,Rodríguez Ramos,1994-03-03,969273861,cesar.rodriguez74@clinicademo.pe,CTMP-30310,2025-11-14 06:00:00
+61,1,46039290,Fiorella Fiorella,Gutiérrez Zegarra,1988-01-14,993998691,fiorella.gutierrez71@clinicademo.pe,CMP-46067,2025-11-14 06:00:00
+62,2,29315776,Natalia,Ramos Cáceres,1987-11-16,917781987,natalia.ramos48@clinicademo.pe,CEP-13953,2025-11-14 06:00:00
+63,1,66324526,Gabriela,García Rojas,1993-01-06,973721320,gabriela.garcia29@clinicademo.pe,CMP-35316,2025-11-14 06:00:00
+64,1,32904973,Daniel César,Rodríguez Zegarra,1995-05-11,997635325,daniel.rodriguez82@clinicademo.pe,CMP-40984,2025-11-14 06:00:00
+65,1,31076947,Pedro,García Ccori,1986-07-20,908264212,pedro.garcia83@clinicademo.pe,CMP-15075,2025-11-14 06:00:00
+66,2,53239501,Daniela,Medina Zegarra,1971-10-22,914000386,daniela.medina57@clinicademo.pe,CEP-32444,2025-11-14 06:00:00
+67,3,10759109,Daniela Milagros,Castillo Vásquez,1963-09-25,965682013,daniela.castillo84@clinicademo.pe,,2025-11-14 06:00:00
+68,7,55249864,Silvia Lucía,Fernández Soto,1991-01-02,936967107,silvia.fernandez92@clinicademo.pe,,2025-11-14 06:00:00
+69,2,77382591,Isabel,Mamani Condori,1978-03-03,984539265,isabel.mamani54@clinicademo.pe,CEP-61312,2025-11-14 06:00:00
+70,1,29432119,Yolanda Milagros,Cárdenas Soto,1989-06-24,949786851,yolanda.cardenas29@clinicademo.pe,CMP-42120,2025-11-14 06:00:00
+71,6,68618466,César,Vásquez Delgado,1987-09-28,977455359,cesar.vasquez53@clinicademo.pe,CQFP-59343,2025-11-14 06:00:00
+72,1,40124685,Andrea Ana,Valdivia Delgado,1992-09-22,952852659,andrea.valdivia10@clinicademo.pe,CMP-49394,2025-11-14 06:00:00
+73,5,54344831,Ana Isabel,Aguilar Campos,2000-07-05,908096373,ana.aguilar89@clinicademo.pe,COP-50272,2025-11-14 06:00:00
+74,7,74567789,Alberto,Ríos Cruz,1997-10-20,945332568,alberto.rios31@clinicademo.pe,,2025-11-14 06:00:00
+75,2,36042012,Daniela,Flores Vásquez,1989-06-02,904288309,daniela.flores75@clinicademo.pe,CEP-80039,2025-11-14 06:00:00
+76,2,16829797,Andrea,Soto Sánchez,1980-06-22,902685116,andrea.soto2@clinicademo.pe,CEP-11698,2025-11-14 06:00:00
+77,1,48212607,Paola,Cárdenas Torres,1964-06-26,924321799,paola.cardenas58@clinicademo.pe,CMP-55031,2025-11-14 06:00:00
+78,2,50243237,Milagros,Cáceres Quispe,1983-08-13,920277666,milagros.caceres57@clinicademo.pe,CEP-34655,2025-11-14 06:00:00
+79,4,10716661,Verónica,García Delgado,1965-07-11,917958965,veronica.garcia6@clinicademo.pe,COP-89649,2025-11-14 06:00:00
+80,1,31842100,César,Chávez Valdivia,1993-10-01,911157029,cesar.chavez41@clinicademo.pe,CMP-16192,2025-11-14 06:00:00
+81,1,10953707,Juan,Gutiérrez Huamán,1982-10-02,960757805,juan.gutierrez85@clinicademo.pe,CMP-20570,2025-11-14 06:00:00
+82,1,47472532,Rosa,Chávez Vargas,1984-04-11,911085357,rosa.chavez67@clinicademo.pe,CMP-14566,2025-11-14 06:00:00
+83,1,42919692,Valeria,Herrera Mendoza,1994-10-28,970798193,valeria.herrera53@clinicademo.pe,CMP-81756,2025-11-14 06:00:00
+84,2,14324135,Paola,Gutiérrez Soto,1992-05-23,917258946,paola.gutierrez39@clinicademo.pe,CEP-93622,2025-11-14 06:00:00
+85,2,22978513,Carmen Yolanda,Ramos Chávez,1980-07-01,904578031,carmen.ramos36@clinicademo.pe,CEP-58245,2025-11-14 06:00:00
+86,1,22317523,Juan,Chávez García,1987-07-13,953829646,juan.chavez52@clinicademo.pe,CMP-44194,2025-11-14 06:00:00
+87,4,61311827,María María,Cáceres Vásquez,1990-03-19,967497369,maria.caceres1@clinicademo.pe,COP-50430,2025-11-14 06:00:00
+88,1,22915664,Sebastián Óscar,Cruz Aguilar,1996-07-29,984944399,sebastian.cruz71@clinicademo.pe,CMP-63369,2025-11-14 06:00:00
+89,2,71308541,Verónica,Ramos Chávez,1998-01-26,936697227,veronica.ramos53@clinicademo.pe,CEP-92850,2025-11-14 06:00:00
+90,3,10191333,Daniel,Campos Cruz,1977-02-05,995912859,daniel.campos73@clinicademo.pe,,2025-11-14 06:00:00
+91,5,78920175,María,Palomino Mendoza,1996-07-17,983268394,maria.palomino47@clinicademo.pe,COP-39410,2025-11-14 06:00:00
+92,5,62650493,Elena,Gutiérrez Zegarra,1980-05-31,921132303,elena.gutierrez88@clinicademo.pe,COP-54246,2025-11-14 06:00:00
+93,1,73331230,Marco Sebastián,Fernández Delgado,1983-03-18,920030817,marco.fernandez17@clinicademo.pe,CMP-83575,2025-11-14 06:00:00
+94,3,20398115,Natalia,Ccori Ramos,1975-02-17,966541880,natalia.ccori18@clinicademo.pe,,2025-11-14 06:00:00
+95,1,45297056,Andrés,Sánchez Aguilar,1994-10-04,961999671,andres.sanchez70@clinicademo.pe,CMP-80604,2025-11-14 06:00:00
+96,5,16455562,José,Cárdenas Fernández,1991-03-24,956468223,jose.cardenas24@clinicademo.pe,COP-60560,2025-11-14 06:00:00
+97,1,36877395,Pedro,Poma Gutiérrez,1979-05-10,993484445,pedro.poma33@clinicademo.pe,CMP-37469,2025-11-14 06:00:00
+98,2,41988038,Rosa Valeria,Herrera Torres,1973-06-03,989772835,rosa.herrera39@clinicademo.pe,CEP-82416,2025-11-14 06:00:00
+99,1,11758728,Elena,Arce Ponce,1980-03-07,965348679,elena.arce89@clinicademo.pe,CMP-29124,2025-11-14 06:00:00
+100,8,58850596,Pedro Álvaro,Valdivia Delgado,1974-07-28,935066254,pedro.valdivia11@clinicademo.pe,,2025-11-14 06:00:00

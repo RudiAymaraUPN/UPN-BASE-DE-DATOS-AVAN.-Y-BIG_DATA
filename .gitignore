@@ -1,0 +1,26 @@
+# Secretos y configuracion local
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Logs y resultados de ejecucion
+logs/*
+!logs/.gitkeep
+data/procesados/*
+!data/procesados/.gitkeep
+data/rechazos/*
+!data/rechazos/.gitkeep
+data/salida_pruebas/*
+!data/salida_pruebas/.gitkeep
+
+# Editor / sistema
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
